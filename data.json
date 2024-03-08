@@ -1,0 +1,3285 @@
+{
+  "data": {
+    "operators": [
+      {
+        "id": "0x00027f3ffb7163f3737d6e74f1e6c7f240319de9",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x942475bb34275b2c752164310403c4a274ff9e61"
+            },
+            "operatorTokenBalanceWei": "7000000000000000000000"
+          }
+        ],
+        "owner": "0x942475bb34275b2c752164310403c4a274ff9e61",
+        "metadataJsonString": "{\"name\":\"FranceCentral\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "7000000000000000000000",
+        "valueWithoutEarnings": "7000000000000000000000"
+      },
+      {
+        "id": "0x004b3b17925d0b308ec6ba4a9e3c7a5b23a8a046",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xb2aa1d1939396df77590ded9dec1e2a88385982e"
+            },
+            "operatorTokenBalanceWei": "10293491891013159873227"
+          }
+        ],
+        "owner": "0xb2aa1d1939396df77590ded9dec1e2a88385982e",
+        "metadataJsonString": "{\"name\":\"Happy Hosts Scotland\",\"description\":\"On a mission to scaled decentralised web3 infrastructure across Scotland + beyond.\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmSZwX3hLqYTCerG8Lv7NBi2B7ebQ4rE1q4iWdprXWExZy\"}",
+        "operatorTokenTotalSupplyWei": "10293491891013159873227",
+        "valueWithoutEarnings": "10293491891013159873227"
+      },
+      {
+        "id": "0x016d6659b97f2b61386e02d65178bf186f98a9f4",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x363f2d276e8d42651000b4f485eed1f4f6c98d50"
+            },
+            "operatorTokenBalanceWei": "10925244230994465423456"
+          }
+        ],
+        "owner": "0x363f2d276e8d42651000b4f485eed1f4f6c98d50",
+        "metadataJsonString": "{\"name\":\"Waffle_Op\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "10925244230994465423456",
+        "valueWithoutEarnings": "10925244230994465423456"
+      },
+      {
+        "id": "0x020c86fa88238da04bb22371638d9abccff610d6",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xc97c0b83c1cf94201addbe641d15d331a0555699"
+            },
+            "operatorTokenBalanceWei": "19825645400000000000000"
+          }
+        ],
+        "owner": "0xc97c0b83c1cf94201addbe641d15d331a0555699",
+        "metadataJsonString": "{\"name\":\"StreamrDreamr\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "19825645400000000000000",
+        "valueWithoutEarnings": "19825645400000000000000"
+      },
+      {
+        "id": "0x02cbc5eb5b0616bb8227a0ce38691dba00942d3e",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x6cf1d464730d9f976f3637f92e8080603b32edf2"
+            },
+            "operatorTokenBalanceWei": "73790000000000000000000"
+          }
+        ],
+        "owner": "0x6cf1d464730d9f976f3637f92e8080603b32edf2",
+        "metadataJsonString": "{\"name\":\"Sparta Labs\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmaJesgMwpwX9j2kTh6QQ8v9VPCJKu22wUwMAY5c4TME5F\"}",
+        "operatorTokenTotalSupplyWei": "73790000000000000000000",
+        "valueWithoutEarnings": "73790000000000000000000"
+      },
+      {
+        "id": "0x0506282d797c0f353dc15f608b550b0f261190fc",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x46a2cd3ad59de9b97eb494d7967545ea13cfc7c9"
+            },
+            "operatorTokenBalanceWei": "10387840061984101291896"
+          }
+        ],
+        "owner": "0x46a2cd3ad59de9b97eb494d7967545ea13cfc7c9",
+        "metadataJsonString": "{\"name\":\"Trucero\",\"description\":\"Nodes operated by Trucero\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "10387840061984101291896",
+        "valueWithoutEarnings": "10387840061984101291896"
+      },
+      {
+        "id": "0x05736c284349a8bd14d02f6561dca3abf8e273e8",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xd8c2be7ec4b92fa9afc0e60410c81f7b34db7071"
+            },
+            "operatorTokenBalanceWei": "5917508583656856837754"
+          }
+        ],
+        "owner": "0xd8c2be7ec4b92fa9afc0e60410c81f7b34db7071",
+        "metadataJsonString": "{\"name\":\"JPS\",\"description\":\"Zurich-highlands-node by JPS\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmSkDKyR4fRGhzrkWTFmEcMq1d9sZ7Dw31FTB81gp6MNFi\"}",
+        "operatorTokenTotalSupplyWei": "5917508583656856837754",
+        "valueWithoutEarnings": "6215567721951423992925"
+      },
+      {
+        "id": "0x06a49ff330df875bd52632be3551722cb35bf02a",
+        "delegations": [],
+        "owner": "0x0d4308ba399ddbd3dfa98dcff5b396eda29ee04c",
+        "metadataJsonString": "{\"name\":\"regofacto\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x076f9af7d806c58c256df7f965c920eba650577b",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x16967ff33b4a5c19143c5d5b3287f50cb257ad47"
+            },
+            "operatorTokenBalanceWei": "5064657316476767135481"
+          },
+          {
+            "delegator": {
+              "id": "0xcf1fa679bc864c13da91fd60003bcb2008204480"
+            },
+            "operatorTokenBalanceWei": "5667916417792705165436"
+          },
+          {
+            "delegator": {
+              "id": "0xe1947e3ccab2b6c46987eeccca6f5189d263c128"
+            },
+            "operatorTokenBalanceWei": "5504030616001513248680"
+          },
+          {
+            "delegator": {
+              "id": "0xeeb924b1e2b6ee4e55de1de6eae6c85aad8b8a32"
+            },
+            "operatorTokenBalanceWei": "5083210742979642703551"
+          }
+        ],
+        "owner": "0xcf1fa679bc864c13da91fd60003bcb2008204480",
+        "metadataJsonString": "{\"name\":\"BCH Nodes\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "21319815093250628253148",
+        "valueWithoutEarnings": "21115925670576846762569"
+      },
+      {
+        "id": "0x079f511ae7a11495d8ef643a9b8d5ffed7fb96a1",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x7130ba45b7d292fbceff39a96235751d7afffe1d"
+            },
+            "operatorTokenBalanceWei": "86680000000000000000000"
+          }
+        ],
+        "owner": "0x7130ba45b7d292fbceff39a96235751d7afffe1d",
+        "metadataJsonString": "{\"name\":\"ALPHatauri\",\"description\":\"Streamr Node, low commission, company node.\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmWmgEcUBxEbVRiTEAHtUh819xYgS1DSDGZm3vtWvWRUVx\"}",
+        "operatorTokenTotalSupplyWei": "86680000000000000000000",
+        "valueWithoutEarnings": "86680000000000000000000"
+      },
+      {
+        "id": "0x0d76a6a5302bd763b313e1dcc30f31f61d46856c",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x8ee54ed42fac878dd38a84192c22362f66d04339"
+            },
+            "operatorTokenBalanceWei": "48870107703034482897892"
+          }
+        ],
+        "owner": "0x8ee54ed42fac878dd38a84192c22362f66d04339",
+        "metadataJsonString": "{\"name\":\"Flynn's Node\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmPESYo8LyeA5AUwbGQK16bX843Sp35EoZoLxhYeR6MH9X\"}",
+        "operatorTokenTotalSupplyWei": "48870107703034482897892",
+        "valueWithoutEarnings": "48381516476368276209728"
+      },
+      {
+        "id": "0x0d9db44c15c201ea76b7f0d74280ce3ff41f310d",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x90626328688ebafad0a51abb421c85f09df58854"
+            },
+            "operatorTokenBalanceWei": "10003197391276562931060"
+          }
+        ],
+        "owner": "0x90626328688ebafad0a51abb421c85f09df58854",
+        "metadataJsonString": "{\"name\":\"KRAFTWERK\",\"description\":\"I'm the operator with my pocket delegator. \",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmSAbtXvD6i1ZBxTuQ96P8rMZAKyz1mvhvDdApaXSZtqcz\"}",
+        "operatorTokenTotalSupplyWei": "10003197391276562931060",
+        "valueWithoutEarnings": "10003197391276562931060"
+      },
+      {
+        "id": "0x0fa6252e0434defd87f7fd1448ba4f98a4a52949",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xb75e8c20cd4fdfd351cc70c3c0f340f2498e04d5"
+            },
+            "operatorTokenBalanceWei": "102475089486242210820987"
+          }
+        ],
+        "owner": "0xb75e8c20cd4fdfd351cc70c3c0f340f2498e04d5",
+        "metadataJsonString": "{\"name\":\"lion97\",\"description\":\"lion97 streamR\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmPLsPrL7WvktFBezqrNB6g5fTGjj5vE4wnMBVBGqc6sbD\"}",
+        "operatorTokenTotalSupplyWei": "102475089486242210820987",
+        "valueWithoutEarnings": "102481090032736288924792"
+      },
+      {
+        "id": "0x103458c120fde862c907d84bc3b9b5820d4d9325",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x681f739a74791e7b5333406fc26550004a785d28"
+            },
+            "operatorTokenBalanceWei": "11521176626325331269609"
+          }
+        ],
+        "owner": "0x681f739a74791e7b5333406fc26550004a785d28",
+        "metadataJsonString": "{\"name\":\"Dnar\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmZLVjVzdpYgNZo3HJLSgN5YiFvbxvRBWZ4T5EACqc52Xs\"}",
+        "operatorTokenTotalSupplyWei": "11521176626325331269609",
+        "valueWithoutEarnings": "11521176626325331269609"
+      },
+      {
+        "id": "0x103c637ab187f3ed8df949a9249b5cc6873f20c6",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xe6e1c8bd552c8e462aa7cbc2bfe99ab2e08c10d7"
+            },
+            "operatorTokenBalanceWei": "45327771086939168788441"
+          }
+        ],
+        "owner": "0xe6e1c8bd552c8e462aa7cbc2bfe99ab2e08c10d7",
+        "metadataJsonString": "{\"name\":\"rribeirom\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "45327771086939168788441",
+        "valueWithoutEarnings": "45327771086939168788441"
+      },
+      {
+        "id": "0x10e304f965be9752bb1b203811435ff99c049c0f",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x8064d48e6232f0b0e91bdaa6b5cf2ca778f0b6d9"
+            },
+            "operatorTokenBalanceWei": "5958068582894622457106"
+          }
+        ],
+        "owner": "0x8064d48e6232f0b0e91bdaa6b5cf2ca778f0b6d9",
+        "metadataJsonString": "{\"name\":\"Abssolum\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmVbdhNBwHm69tmFUtxADs6GSeBGmgkw7pZZ9pz9wp24KE\"}",
+        "operatorTokenTotalSupplyWei": "5958068582894622457106",
+        "valueWithoutEarnings": "5958068582894622457106"
+      },
+      {
+        "id": "0x1486381c12447bf91f7d19c4c65afa9986c42862",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x8fd8eb7d28d1f1d6542fb440b2b71b62e92e5d94"
+            },
+            "operatorTokenBalanceWei": "5100000000000000000000"
+          }
+        ],
+        "owner": "0x8fd8eb7d28d1f1d6542fb440b2b71b62e92e5d94",
+        "metadataJsonString": "{\"name\":\"bilof\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5100000000000000000000",
+        "valueWithoutEarnings": "5100000000000000000000"
+      },
+      {
+        "id": "0x163bce7dd4a2720e4a9857d8993b00488e8210a4",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xf5035f5499799835b4cfde1f09efd4a5b360032c"
+            },
+            "operatorTokenBalanceWei": "23873888980998279090196"
+          }
+        ],
+        "owner": "0xf5035f5499799835b4cfde1f09efd4a5b360032c",
+        "metadataJsonString": "{\"name\":\"klems\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "23873888980998279090196",
+        "valueWithoutEarnings": "23892356347273036699934"
+      },
+      {
+        "id": "0x176ddc22cc8267aeaa858e2463e7410fd026e2e8",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xc435b51cd082e2e9605f0af188cf071162fac14e"
+            },
+            "operatorTokenBalanceWei": "83286784532369043566886"
+          }
+        ],
+        "owner": "0xc435b51cd082e2e9605f0af188cf071162fac14e",
+        "metadataJsonString": "{\"name\":\"PREHAB\",\"description\":\"PREHAB STREAMR\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "83286784532369043566886",
+        "valueWithoutEarnings": "83286784532369043566886"
+      },
+      {
+        "id": "0x17a0c69678120633fbcb0cfae37817aaa01f5855",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x3324a0d2d5e8b15f19b5b6f840b925dbfef45ce0"
+            },
+            "operatorTokenBalanceWei": "279556714006104233733820"
+          }
+        ],
+        "owner": "0x3324a0d2d5e8b15f19b5b6f840b925dbfef45ce0",
+        "metadataJsonString": "{\"name\":\"StreamrYield\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmXU7LXqEJv9sx8zo7tmeTx4c4Ddtv3eThhZUMqbwnx4yK\"}",
+        "operatorTokenTotalSupplyWei": "279556714006104233733820",
+        "valueWithoutEarnings": "279546971163661508394639"
+      },
+      {
+        "id": "0x189f13223436efa6b1f60148c7ba4a38445ebae1",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x157447449e378983e983d5b0369b107855fb269f"
+            },
+            "operatorTokenBalanceWei": "5276422923855977535465"
+          },
+          {
+            "delegator": {
+              "id": "0x1e9858a0c991ceb6c0b40ce63c9ab48cfa1bc405"
+            },
+            "operatorTokenBalanceWei": "36200057996306067115886"
+          },
+          {
+            "delegator": {
+              "id": "0x400f66a36910b3d5029ad18fbdaa2616d01c0e6a"
+            },
+            "operatorTokenBalanceWei": "6834364764635446171837"
+          },
+          {
+            "delegator": {
+              "id": "0x4b49f42d9c2421467aec3d3512a790df4724d03e"
+            },
+            "operatorTokenBalanceWei": "21252443829446240756693"
+          },
+          {
+            "delegator": {
+              "id": "0x4cf6a6dfecca98bbbb23f6ad97cc2bc4f6d9ef81"
+            },
+            "operatorTokenBalanceWei": "5716816705139925453648"
+          },
+          {
+            "delegator": {
+              "id": "0x582ee7663553968db9ead12ea2e26669d8596fb2"
+            },
+            "operatorTokenBalanceWei": "153893292442955542204681"
+          },
+          {
+            "delegator": {
+              "id": "0x6c2c6e1e556c876b6eb3455f444d765d6f36c872"
+            },
+            "operatorTokenBalanceWei": "37449182758058649886363"
+          },
+          {
+            "delegator": {
+              "id": "0x789bcf2f1856a20fcf9efb86bb9324840539ea3c"
+            },
+            "operatorTokenBalanceWei": "229076270522029504129418"
+          },
+          {
+            "delegator": {
+              "id": "0x9295e419c4d2601f15cd9a5fd7adda24a0a144dd"
+            },
+            "operatorTokenBalanceWei": "15371118445210660753414"
+          },
+          {
+            "delegator": {
+              "id": "0x941dd898aec01a1fe15aaa37f29ac8f7560bbce9"
+            },
+            "operatorTokenBalanceWei": "15378944687623837590521"
+          },
+          {
+            "delegator": {
+              "id": "0xb1f0e71f77f8e4d2963831c08a7c5571275e53a2"
+            },
+            "operatorTokenBalanceWei": "71783394530736888905768"
+          },
+          {
+            "delegator": {
+              "id": "0xb9b762ba6b7e6c484f532ff560f10bdbd6c48258"
+            },
+            "operatorTokenBalanceWei": "3276926415109118258453"
+          },
+          {
+            "delegator": {
+              "id": "0xc18db07619cc84f0c7e401ac9e495a19d8f7ca6a"
+            },
+            "operatorTokenBalanceWei": "305305307749433850466024"
+          },
+          {
+            "delegator": {
+              "id": "0xfd7e9bd7ab546fea3ea775f9a6e74e1b56d1d1a1"
+            },
+            "operatorTokenBalanceWei": "2910695373632744930345"
+          }
+        ],
+        "owner": "0xc18db07619cc84f0c7e401ac9e495a19d8f7ca6a",
+        "metadataJsonString": "{\"name\":\"Fudo\",\"description\":\"Node hosted on the Flux Network.\\n4 instances always online\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmY5b6KQe11PQLkWurAAeLAARpf4XsHPTknDWorkcnbjbN\"}",
+        "operatorTokenTotalSupplyWei": "909725239144174454158516",
+        "valueWithoutEarnings": "901723490741699669458523"
+      },
+      {
+        "id": "0x1912b8e8498514d8dff84fd14a06435a747e52ef",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x93eafa847be6f09c436ee0a3655de4f47a4947c8"
+            },
+            "operatorTokenBalanceWei": "5170976065159600000000"
+          }
+        ],
+        "owner": "0x93eafa847be6f09c436ee0a3655de4f47a4947c8",
+        "metadataJsonString": "{\"name\":\"Technolify\",\"description\":\"We are a private cloud operator providing our resources to the decentralized DePIN communities. \",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmTKsXH6qqHH8FAFGopym3FPZ2Wsk67PYPMQEoHvuZavXw\"}",
+        "operatorTokenTotalSupplyWei": "5170976065159600000000",
+        "valueWithoutEarnings": "5170976065159600000000"
+      },
+      {
+        "id": "0x19f5f8da11cf147ecfb57816135bbe916475eb44",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xf38588c716f0290cd9457f3cfdb3e5f3037023c4"
+            },
+            "operatorTokenBalanceWei": "7148953787925858722357"
+          }
+        ],
+        "owner": "0xf38588c716f0290cd9457f3cfdb3e5f3037023c4",
+        "metadataJsonString": "{\"name\":\"HiTech Hayekian\",\"description\":\"HiTech Haykian doing shitcoins for fun, node for the community\",\"redundancyFactor\":1,\"imageIpfsCid\":\"QmXN3MQYvZnj8Wig3KPCc8odHJS5DzA5aPcAsQaak9HxUA\"}",
+        "operatorTokenTotalSupplyWei": "7148953787925858722357",
+        "valueWithoutEarnings": "7082467295914213704562"
+      },
+      {
+        "id": "0x1dceb55d35a93e7ee34675b0f8427a53d4877a92",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xdb32aa47a9cc3e2a2de5971b3213e99513f658a0"
+            },
+            "operatorTokenBalanceWei": "2047940438159170612749697"
+          }
+        ],
+        "owner": "0xdb32aa47a9cc3e2a2de5971b3213e99513f658a0",
+        "metadataJsonString": "{\"name\":\"nodes.quest\",\"description\":\"https://nodes.quest\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmU2aRzWVTQE7EFX4E8Xx3529rR7JJY2m7kzrwBuPRtFjB\"}",
+        "operatorTokenTotalSupplyWei": "2047940438159170612749697",
+        "valueWithoutEarnings": "2047940438159170612749697"
+      },
+      {
+        "id": "0x1e8c21b4160bacf98b3165112cda7ba5fed83f72",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x6394071be05dc758a3b8100f1b264875e764dde2"
+            },
+            "operatorTokenBalanceWei": "49643879472801567476954"
+          }
+        ],
+        "owner": "0x6394071be05dc758a3b8100f1b264875e764dde2",
+        "metadataJsonString": "{\"name\":\"zuk\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmeHe39XoAtAvPpy7GRBT1v8muGa73PNzDaAGGWT3KhAr5\"}",
+        "operatorTokenTotalSupplyWei": "49643879472801567476954",
+        "valueWithoutEarnings": "49673148726856059524888"
+      },
+      {
+        "id": "0x1eec0c66c38a5584bae0391a2b60dae70be1cad2",
+        "delegations": [],
+        "owner": "0xbd7bc79ead8d5db4d93bfc6fa3d783d05381486b",
+        "metadataJsonString": "{\"name\":\"mex-mx\",\"description\":\"mx\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmcgkpLKjLvDC2UsWHKuTcm1TnfBG8kYuM9KeVPsHDbXvy\"}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x20ce1e785d993740247bd777cab07db45a10dcc9",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xf5378d25009d38d3df9e2a942882f004c58e4587"
+            },
+            "operatorTokenBalanceWei": "29920515810000000000"
+          }
+        ],
+        "owner": "0xf5378d25009d38d3df9e2a942882f004c58e4587",
+        "metadataJsonString": "{\"name\":\"Vivid Round Enable\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "29920515810000000000",
+        "valueWithoutEarnings": "29920515810000000000"
+      },
+      {
+        "id": "0x20dc607556c1749eee88094631bba9506ebb83fa",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x13f2379b2380a7614945fdadd2683591036ecbd5"
+            },
+            "operatorTokenBalanceWei": "6009952984737863346817"
+          }
+        ],
+        "owner": "0x13f2379b2380a7614945fdadd2683591036ecbd5",
+        "metadataJsonString": "{\"name\":\"CryptoEnzo-OperatorNode\",\"description\":\"CryptoEnzo-OperatorNode\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmRhjRwozZQXrhASXoiSuAqMBNbLN2vDdJtuHjbrgBdwSq\"}",
+        "operatorTokenTotalSupplyWei": "6009952984737863346817",
+        "valueWithoutEarnings": "5950725504611253378893"
+      },
+      {
+        "id": "0x216142cc2442df78369826de0e4f2cd7f71f61a7",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x1709148a9c9abcce48744c20c0266948bc6c9fce"
+            },
+            "operatorTokenBalanceWei": "5000000000000000000000"
+          }
+        ],
+        "owner": "0x1709148a9c9abcce48744c20c0266948bc6c9fce",
+        "metadataJsonString": "{\"name\":\"LiquiCity\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmdyMGrP4wvpPeCr9QJmqEKj578c7sp8mofa4inB9MFJvz\"}",
+        "operatorTokenTotalSupplyWei": "5000000000000000000000",
+        "valueWithoutEarnings": "5000000000000000000000"
+      },
+      {
+        "id": "0x2196e114dcab75a9601a07691e2bd9cad4d3c1b5",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xadf85f474478ac00b9368ced892d0e23c30ef714"
+            },
+            "operatorTokenBalanceWei": "71583292991043281423908"
+          }
+        ],
+        "owner": "0xadf85f474478ac00b9368ced892d0e23c30ef714",
+        "metadataJsonString": "{\"name\":\"Ride The Lightning\",\"description\":\"Melat Streaming Madness\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmYL4bTKkABNbPZEpGVoB6Fa8Zuzkfs6opxwcT2Ew2dtVB\"}",
+        "operatorTokenTotalSupplyWei": "71583292991043281423908",
+        "valueWithoutEarnings": "71583292991043281423908"
+      },
+      {
+        "id": "0x21ff1bb650a3089a2d7c4c62c5d5022621e1f1ef",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x89a6e7adbc17ffee13f9e6805adf2a9d1bff9944"
+            },
+            "operatorTokenBalanceWei": "11127400643918956196523"
+          }
+        ],
+        "owner": "0x89a6e7adbc17ffee13f9e6805adf2a9d1bff9944",
+        "metadataJsonString": "{\"name\":\"Niux\",\"description\":\"Warden FTW\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmUrAfjUoiVD9gPsKuKQiGTH5gKc6oQy9LeCXoi63Y64qb\"}",
+        "operatorTokenTotalSupplyWei": "11127400643918956196523",
+        "valueWithoutEarnings": "11131100808020589159125"
+      },
+      {
+        "id": "0x2298549b0ac17c7f2b0ff9a4c087d623dbd6464e",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x6469c5c862ff54a489a07d83c1690e7c549baa7a"
+            },
+            "operatorTokenBalanceWei": "13082000000000000000000"
+          }
+        ],
+        "owner": "0x6469c5c862ff54a489a07d83c1690e7c549baa7a",
+        "metadataJsonString": "{\"name\":\"00StreamOperator\",\"description\":\"Mainnet 1.0\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmT3hSSJLKyDHpcnz8dY4ntmNuJ9wB4i75V5Te6m52vTVe\"}",
+        "operatorTokenTotalSupplyWei": "13082000000000000000000",
+        "valueWithoutEarnings": "13082000000000000000000"
+      },
+      {
+        "id": "0x23a2feb05ef98aa8437b25b112db44959b352838",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x7b319641b0cb8cbc171dc3356d7b9ffdcbdd985b"
+            },
+            "operatorTokenBalanceWei": "28867285131116238569830"
+          }
+        ],
+        "owner": "0x7b319641b0cb8cbc171dc3356d7b9ffdcbdd985b",
+        "metadataJsonString": "{\"name\":\"StreamrGPT⚡️\",\"description\":\"This node is not powered by AI\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmQqKqfC4RKNbXGF6kp3BDmr4gYvCSuijzXqZJmFBowwgr\"}",
+        "operatorTokenTotalSupplyWei": "28867285131116238569830",
+        "valueWithoutEarnings": "28867285131116238569830"
+      },
+      {
+        "id": "0x25fe4bf122147ed65e1577f30c8b5b2d1e0f3780",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x601aae7f7012a470abd9477e8336e9716b87c3aa"
+            },
+            "operatorTokenBalanceWei": "12068508828933617939265"
+          }
+        ],
+        "owner": "0x601aae7f7012a470abd9477e8336e9716b87c3aa",
+        "metadataJsonString": "{\"name\":\"Fantastic fork\",\"description\":\"No. 1\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "12068508828933617939265",
+        "valueWithoutEarnings": "12068508828933617939265"
+      },
+      {
+        "id": "0x279f3df588984975f2c5f8e04f42c4c3f195f3bc",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x55015f8a1c05f9fb44bdd9e09545c9e07a609193"
+            },
+            "operatorTokenBalanceWei": "7677141257682588110964"
+          }
+        ],
+        "owner": "0x55015f8a1c05f9fb44bdd9e09545c9e07a609193",
+        "metadataJsonString": "{\"name\":\"AlphaLoot\",\"description\":\"AlphaLoot\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "7677141257682588110964",
+        "valueWithoutEarnings": "7600588422301534657649"
+      },
+      {
+        "id": "0x2c8f3d2092ddc61c802202ae92e59667d59a45e5",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x3e506335e8eeb2745002233f469a4fcee8fd38f6"
+            },
+            "operatorTokenBalanceWei": "1512719353438871181147"
+          }
+        ],
+        "owner": "0x3e506335e8eeb2745002233f469a4fcee8fd38f6",
+        "metadataJsonString": "{\"name\":\"Lemon Throw Step\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "1512719353438871181147",
+        "valueWithoutEarnings": "1512719353438871181147"
+      },
+      {
+        "id": "0x2f66a95fd18d1fb2de05c3f6a4107653772f910d",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xa6ef35c9dd0c76d61c8bc142af4bb53a328e68aa"
+            },
+            "operatorTokenBalanceWei": "7834722424472729638078"
+          }
+        ],
+        "owner": "0xa6ef35c9dd0c76d61c8bc142af4bb53a328e68aa",
+        "metadataJsonString": "{\"name\":\"Rumnkoke 1.0\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmWrFTKR4A4oj5SwBhdi9SqWiJUnjyo2nXGCBoECeN5eJh\"}",
+        "operatorTokenTotalSupplyWei": "7834722424472729638078",
+        "valueWithoutEarnings": "7834722424472729638078"
+      },
+      {
+        "id": "0x30df52ab36139d69122447507416940c138511f1",
+        "delegations": [],
+        "owner": "0x0dd58e5d8fe04a0b93d26992043ea8c898b647f0",
+        "metadataJsonString": "{\"name\":\"Matteo\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x31600b3b0533b120f1194a29f8f8c043307bd43a",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xd7838f40661efe503e0191a7160973819ead4a47"
+            },
+            "operatorTokenBalanceWei": "10997226987491503249200"
+          }
+        ],
+        "owner": "0xd7838f40661efe503e0191a7160973819ead4a47",
+        "metadataJsonString": "{\"name\":\"MCM.Streamr\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "10997226987491503249200",
+        "valueWithoutEarnings": "10997226987491503249200"
+      },
+      {
+        "id": "0x319e425d7abb9e5463b6e7e830965d52a05000b3",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x5caa48419624ad33e96ab87b64c3822e20e95811"
+            },
+            "operatorTokenBalanceWei": "3000000000000000000"
+          }
+        ],
+        "owner": "0x5caa48419624ad33e96ab87b64c3822e20e95811",
+        "metadataJsonString": "{\"name\":\"Kitty\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmUwnMLxs2w6nuQ2Z2RYkvMifwZzoDjSyMqgwQNyjaCMd5\"}",
+        "operatorTokenTotalSupplyWei": "3000000000000000000",
+        "valueWithoutEarnings": "3000000000000000000"
+      },
+      {
+        "id": "0x3584066c154db832ddbe24fdfcb32cb8345f8d7d",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x6868ef5ecfadc742b7f2686bafeadcc0b7550bac"
+            },
+            "operatorTokenBalanceWei": "5504145515063043887185"
+          }
+        ],
+        "owner": "0x6868ef5ecfadc742b7f2686bafeadcc0b7550bac",
+        "metadataJsonString": "{\"name\":\"Swiss Lapi Operator\",\"description\":\"Securely deposit $DATA with 2 redundant servers (Switzerland/France), 5% fee, optimal APY/Safety sponsorships.\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "5504145515063043887185",
+        "valueWithoutEarnings": "5504145515063043887185"
+      },
+      {
+        "id": "0x35e102e3edd5bea2f50166c752ed9bcdf0a4fa42",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x029de5acb471b24d367cd71459d7542dd352de62"
+            },
+            "operatorTokenBalanceWei": "17991858854136795316964"
+          }
+        ],
+        "owner": "0x029de5acb471b24d367cd71459d7542dd352de62",
+        "metadataJsonString": "{\"name\":\"Myrilandel\",\"description\":\"\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "17991858854136795316964",
+        "valueWithoutEarnings": "17991858854136795316964"
+      },
+      {
+        "id": "0x362ffe9db90cfaee11621b98f6eb0562c35bb7ee",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x530550e005bfeb24a392e77319961e1f32b1d5ce"
+            },
+            "operatorTokenBalanceWei": "37827956684661150064547"
+          }
+        ],
+        "owner": "0x530550e005bfeb24a392e77319961e1f32b1d5ce",
+        "metadataJsonString": "{\"name\":\"BYK Data\",\"description\":\"\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmQPSj9JQtjnXW8SCmNFZjUTjYzVFrtjxHaNTp43y4iKk4\"}",
+        "operatorTokenTotalSupplyWei": "37827956684661150064547",
+        "valueWithoutEarnings": "37827956684661150064547"
+      },
+      {
+        "id": "0x36413497e867c930eb73280ac2231f25c62de9eb",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x63500f60a8b3f206c6e2fff69a6b0d6c6c37332e"
+            },
+            "operatorTokenBalanceWei": "4497125053475089296509"
+          },
+          {
+            "delegator": {
+              "id": "0x82a1cd09e82d42ab3fce4d68ffb13f38201b2bda"
+            },
+            "operatorTokenBalanceWei": "7702879490310791560547"
+          },
+          {
+            "delegator": {
+              "id": "0x8dd44ee0e7d55ceac8a7dcfa335be9c8f2a88e61"
+            },
+            "operatorTokenBalanceWei": "11991046234587554502996"
+          },
+          {
+            "delegator": {
+              "id": "0xafd83de9fdf6fc7403c6830489f8a211bf73d15e"
+            },
+            "operatorTokenBalanceWei": "12127384093185039705717"
+          }
+        ],
+        "owner": "0x82a1cd09e82d42ab3fce4d68ffb13f38201b2bda",
+        "metadataJsonString": "{\"name\":\"Nitro62210\",\"description\":\"Node sur plusieurs IP détenu dans le Nord de la FRANCE\\nFIBRE\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "36318434871558475065769",
+        "valueWithoutEarnings": "36320434981695379423460"
+      },
+      {
+        "id": "0x369db96cedda7804a62d510798b30d8c83a81c89",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x323cc700255edeb10028fd4af7e3f7a3bcea277d"
+            },
+            "operatorTokenBalanceWei": "24949184285507660608004"
+          }
+        ],
+        "owner": "0x323cc700255edeb10028fd4af7e3f7a3bcea277d",
+        "metadataJsonString": "{\"name\":\"BOOST YOURSELF\",\"description\":\"It's time to boost yourself\\nBOOST\",\"redundancyFactor\":3}",
+        "operatorTokenTotalSupplyWei": "24949184285507660608004",
+        "valueWithoutEarnings": "24949184285507660608004"
+      },
+      {
+        "id": "0x37d0f3b29e3fb0e075145e976650f2f27a255320",
+        "delegations": [],
+        "owner": "0x963a8f59efe1895272be19942095112dcdccd2a6",
+        "metadataJsonString": "{\"name\":\"First and Last\",\"description\":\"\",\"redundancyFactor\":4,\"imageIpfsCid\":\"QmdjgYkMCtMiHqt35339XLF1eeJDDFAew213AiEUhfqMWv\"}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x3809719df82d8cc2bc51d2e95144312a636f9a75",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x2611f2475291d3091a129581388a37725ca1e1f3"
+            },
+            "operatorTokenBalanceWei": "6159857467657539148697"
+          }
+        ],
+        "owner": "0x2611f2475291d3091a129581388a37725ca1e1f3",
+        "metadataJsonString": "{\"name\":\"For the Dads\",\"description\":\"Just a dad at home keeping the Streamr network running!\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmbCeHTSUuX2t4vwauv4RpUhFqaKvoJMRry5xUEwnkyu5T\"}",
+        "operatorTokenTotalSupplyWei": "6159857467657539148697",
+        "valueWithoutEarnings": "6159857467657539148697"
+      },
+      {
+        "id": "0x382cff4589e61d5ed18f2891eb574c9a148db6a8",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x307a0b544129a1172a26676e84c93e7d13b25ef1"
+            },
+            "operatorTokenBalanceWei": "5822750321675837316972"
+          }
+        ],
+        "owner": "0x307a0b544129a1172a26676e84c93e7d13b25ef1",
+        "metadataJsonString": "{\"name\":\"Heath's Streamr 1.0  Operator\",\"description\":\"South Australia, Australia\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "5822750321675837316972",
+        "valueWithoutEarnings": "5822750321675837316972"
+      },
+      {
+        "id": "0x387672a2e1999538d1454365fd488102c3621537",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x5e5c752bc69d5b1cf2b80e238338bc2d0d85959b"
+            },
+            "operatorTokenBalanceWei": "5000000000000000000000"
+          }
+        ],
+        "owner": "0x5e5c752bc69d5b1cf2b80e238338bc2d0d85959b",
+        "metadataJsonString": "{\"name\":\"Kosuke\",\"description\":\"Blockchain developers group\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmPKSuSgWsoeZUyRhq927HSNbuN81gTjyUgXP1QWhpqkRV\"}",
+        "operatorTokenTotalSupplyWei": "5000000000000000000000",
+        "valueWithoutEarnings": "5000000000000000000000"
+      },
+      {
+        "id": "0x3a01cd6226916340c0d5e7e9cb3d10b73362c005",
+        "delegations": [],
+        "owner": "0x552064c8e56021969a344f5afdb8fa2dcbe687f1",
+        "metadataJsonString": "{\"name\":\"JP\",\"description\":\"JP's streamr miner\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmYu8LkTy9DbVUAwJPCtYi1vt7g5UCB9hHSgyUy7oBxEQS\"}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x3c25ae26626530b3465ef42acd841104817efe49",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xebe346bc979742e7a378c16f2d36c8bba25907ff"
+            },
+            "operatorTokenBalanceWei": "111695389910110188914105"
+          }
+        ],
+        "owner": "0xebe346bc979742e7a378c16f2d36c8bba25907ff",
+        "metadataJsonString": "{\"name\":\"GROOT\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmaqQW6PWsDUupE8eceqG6WXouTjEmhfsoVrxPwHJE94jL\"}",
+        "operatorTokenTotalSupplyWei": "111695389910110188914105",
+        "valueWithoutEarnings": "111737576848149416778935"
+      },
+      {
+        "id": "0x3c9a75cf19b4dd221ce69babdf33ae26a9c0df8a",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x15c8aba4c044b54d055e46fd9aca08c4f4f8424f"
+            },
+            "operatorTokenBalanceWei": "10500000000000000000000"
+          }
+        ],
+        "owner": "0x15c8aba4c044b54d055e46fd9aca08c4f4f8424f",
+        "metadataJsonString": "{\"name\":\"Electron's New Node\",\"description\":\"Updated operator for Streamr 1.0\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "10500000000000000000000",
+        "valueWithoutEarnings": "10500000000000000000000"
+      },
+      {
+        "id": "0x3fe24774ae56d202690d7d32fd1969290b1d3ae4",
+        "delegations": [],
+        "owner": "0xce70eec1dee8260b29e583e2a518ac3fe59dfcb5",
+        "metadataJsonString": "{\"name\":\"marlen streamr\",\"description\":\"self hosting node\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x400a1d5069defd0af3240027ea6676cf88110985",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xc2ae2d5523080b64cc788cddc91ff59a3e29f911"
+            },
+            "operatorTokenBalanceWei": "776971457254379289403"
+          }
+        ],
+        "owner": "0xc2ae2d5523080b64cc788cddc91ff59a3e29f911",
+        "metadataJsonString": "{\"name\":\"SymbiotAI.com\",\"description\":\"Talk with different AI models in a single chat.\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmXPk7iTCMM4rA36wFC6gQRhJ2Bij2Fupyfp94ChJyFnPJ\"}",
+        "operatorTokenTotalSupplyWei": "776971457254379289403",
+        "valueWithoutEarnings": "719658453376817923772"
+      },
+      {
+        "id": "0x4125776266d0f2681892d291fd4052521c3ade90",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x216cba53835b67782f98face30c3f61f5d36657e"
+            },
+            "operatorTokenBalanceWei": "5715843039730199985600"
+          }
+        ],
+        "owner": "0x216cba53835b67782f98face30c3f61f5d36657e",
+        "metadataJsonString": "{\"name\":\"Streaming Data\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5715843039730199985600",
+        "valueWithoutEarnings": "5715843039730199985600"
+      },
+      {
+        "id": "0x415a97eb65c81a8b8fb8d1747ce36e27fe1463e8",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x43fc66d4876baca379bc22e6afdef43a017a5068"
+            },
+            "operatorTokenBalanceWei": "18689930593258614838883"
+          }
+        ],
+        "owner": "0x43fc66d4876baca379bc22e6afdef43a017a5068",
+        "metadataJsonString": "{\"name\":\"JRAStreamr\",\"description\":\"Crypto enthusiast running nodes for various projects. \",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmeRQ9cjd1Mkfx6jrYoC2fynn8HoSnxXftCfdKxJhU2cw1\"}",
+        "operatorTokenTotalSupplyWei": "18689930593258614838883",
+        "valueWithoutEarnings": "18689930593258614838883"
+      },
+      {
+        "id": "0x43f086e986fe3b06b9b8d53570099459c89ae79c",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x274a3c047438f145bb435096fa52374c0863f624"
+            },
+            "operatorTokenBalanceWei": "114394756680959395010131"
+          }
+        ],
+        "owner": "0x274a3c047438f145bb435096fa52374c0863f624",
+        "metadataJsonString": "{\"name\":\"Streamr Mainnet 1.0\",\"description\":\"Streamr Mainnet 1.0\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmVCgKPVjMu2XTS7rfCcZZUqTMhD5f5tqe7eizJ7YukU6F\"}",
+        "operatorTokenTotalSupplyWei": "114394756680959395010131",
+        "valueWithoutEarnings": "114394756680959395010131"
+      },
+      {
+        "id": "0x4428b9ff8429240e105105b04543b547a1cee789",
+        "delegations": [],
+        "owner": "0xf801a434ec4a732565de57de0ff52ad5131fa919",
+        "metadataJsonString": "{\"name\":\"JAKE\",\"description\":\"\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x4529c38faef6f39cc4f0a8e5457f485bfab5b4ad",
+        "delegations": [],
+        "owner": "0x419f30f8eaadc90e48e0ba28ae8b6a6c15bb290d",
+        "metadataJsonString": "{\"name\":\"Flumph Tech\",\"description\":\"\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x454dfb20eac0a78c0762d83b148801dabab567e5",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x07e21e1eca7b770457d739cebdf07ce6558f8840"
+            },
+            "operatorTokenBalanceWei": "173409174917841390533"
+          }
+        ],
+        "owner": "0x07e21e1eca7b770457d739cebdf07ce6558f8840",
+        "metadataJsonString": "{\"name\":\"WinStreamr01\",\"description\":\"Uses Win:Streamer01 as login but Win:Streamr02 wallet.\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "173409174917841390533",
+        "valueWithoutEarnings": "173409174917841390533"
+      },
+      {
+        "id": "0x45bf317772b2dfea482110a66f00dcea615515a7",
+        "delegations": [],
+        "owner": "0xf997b78374e5f9a71023a5996a8fcdbc691b0b38",
+        "metadataJsonString": "{\"name\":\"operator.me\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x476483a9b715475f0a1c4119022e18ca3aa5e1c9",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x16342fc629006f42bf0b57e5a93defaa09533ad6"
+            },
+            "operatorTokenBalanceWei": "5000000000000000000000"
+          },
+          {
+            "delegator": {
+              "id": "0x4f94ab321f28866168f5b3f1767246d0226ae7d5"
+            },
+            "operatorTokenBalanceWei": "5500190745617624194200"
+          }
+        ],
+        "owner": "0x4f94ab321f28866168f5b3f1767246d0226ae7d5",
+        "metadataJsonString": "{\"name\":\"PXL Service\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "10500190745617624194200",
+        "valueWithoutEarnings": "10502725595221393012792"
+      },
+      {
+        "id": "0x47a4afc0722901b05bdb1a3d0294f0c7001fbd27",
+        "delegations": [],
+        "owner": "0x41f7d01e3996aab85b0a120ca6a7e90915fbaa22",
+        "metadataJsonString": "{\"name\":\"St1lex\",\"description\":\"\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x494e4db0df075d3a6170b80d50d875a79573fa66",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x9c19f2ffd274c43047b5a9b30d014a418305132a"
+            },
+            "operatorTokenBalanceWei": "95759846692597079197959"
+          }
+        ],
+        "owner": "0x9c19f2ffd274c43047b5a9b30d014a418305132a",
+        "metadataJsonString": "{\"name\":\"Le stream Français\",\"description\":\"\",\"redundancyFactor\":3}",
+        "operatorTokenTotalSupplyWei": "95759846692597079197959",
+        "valueWithoutEarnings": "95766341974496269104455"
+      },
+      {
+        "id": "0x4961a2ec52f4760cff2afeec888e8e8b7b22c004",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x35111294ca72308f7950c631ae8a60976f6dc5a5"
+            },
+            "operatorTokenBalanceWei": "65094208399239971858503"
+          },
+          {
+            "delegator": {
+              "id": "0x926f509083cc220bd6ff62b35f3a9a3e4c82e1e3"
+            },
+            "operatorTokenBalanceWei": "5388570515455491773688"
+          }
+        ],
+        "owner": "0x35111294ca72308f7950c631ae8a60976f6dc5a5",
+        "metadataJsonString": "{\"name\":\"Deutschland\",\"description\":\"Local servers 24/7 in Germany, backed with VPS in USA and Mexico.\\ndiscord:teemo-crypto\\ncheck operator 1-2 times per day.\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmRBPiG2WdmcdtH5piGMK1jJbR4Ge6VKx1P6fjvx86oBET\"}",
+        "operatorTokenTotalSupplyWei": "70482778914695463632191",
+        "valueWithoutEarnings": "70482778914695463632191"
+      },
+      {
+        "id": "0x497ec54fa05f581ccca2d7a3f4c324497902cae7",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x6c9fe7f8b688202e4f94e5d35311887cc1f7a420"
+            },
+            "operatorTokenBalanceWei": "34544084232920975039500"
+          }
+        ],
+        "owner": "0x6c9fe7f8b688202e4f94e5d35311887cc1f7a420",
+        "metadataJsonString": "{\"name\":\"MacP Trading\",\"description\":\"\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmcJysWynHurY1XEy2hsCWhYQgivL4za8iEdN6LLNxPzwL\"}",
+        "operatorTokenTotalSupplyWei": "34544084232920975039500",
+        "valueWithoutEarnings": "34544084232920975039500"
+      },
+      {
+        "id": "0x4adb0d30f8212112e09a9962aa36ae90b2b03eb1",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x1066a983a43784a5ca8d1d07bbbe001e6b3e4f9f"
+            },
+            "operatorTokenBalanceWei": "5436941370635070861524"
+          }
+        ],
+        "owner": "0x1066a983a43784a5ca8d1d07bbbe001e6b3e4f9f",
+        "metadataJsonString": "{\"name\":\"IATG2001\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5436941370635070861524",
+        "valueWithoutEarnings": "6733941370635070861524"
+      },
+      {
+        "id": "0x4b0d5a95624c8f20d79e4a2278c1a7da16a3472e",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xe936f372338865f117c5e96ffa81a2e1aa031b4b"
+            },
+            "operatorTokenBalanceWei": "1144576002823558634245393"
+          }
+        ],
+        "owner": "0xe936f372338865f117c5e96ffa81a2e1aa031b4b",
+        "metadataJsonString": "{\"name\":\"BF\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmbD9ghckn7h6aGdwBMVCg7Txr84v9YrsdYg321sGWnuNu\"}",
+        "operatorTokenTotalSupplyWei": "1144576002823558634245393",
+        "valueWithoutEarnings": "1144579269421751942592762"
+      },
+      {
+        "id": "0x4b1bdc4272b5fc63b632ea80dade8317ae90330e",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x056aa97af2fe488e596795b899b26ff4a79bf129"
+            },
+            "operatorTokenBalanceWei": "15000000000000000000000"
+          }
+        ],
+        "owner": "0x056aa97af2fe488e596795b899b26ff4a79bf129",
+        "metadataJsonString": "{\"name\":\"Sagittarius A*\",\"description\":\"Information processing at its finest 8)\\nAvatar picture by European Southern Observatory/EHT Collaboration\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmZB92RkoTrrP8i9DUPNF4pnkrboNKnWJLFdmNip2b8iFA\"}",
+        "operatorTokenTotalSupplyWei": "15000000000000000000000",
+        "valueWithoutEarnings": "15000000000000000000000"
+      },
+      {
+        "id": "0x4d9223066d3bd3230e827299dbde95a23cc8e872",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x3289407291724fca33d0337ce753735a7a4f5a79"
+            },
+            "operatorTokenBalanceWei": "5189000000000000000000"
+          }
+        ],
+        "owner": "0x3289407291724fca33d0337ce753735a7a4f5a79",
+        "metadataJsonString": "{\"name\":\"Haaasi\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5189000000000000000000",
+        "valueWithoutEarnings": "5189000000000000000000"
+      },
+      {
+        "id": "0x4e334b022822871fe7aa3b2a05b99d7fb654939a",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x4df472cfb73ff0fbd4615bb478a064f006d011b5"
+            },
+            "operatorTokenBalanceWei": "5000000000000000000000"
+          }
+        ],
+        "owner": "0x4df472cfb73ff0fbd4615bb478a064f006d011b5",
+        "metadataJsonString": "{\"name\":\"freestriker00\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5000000000000000000000",
+        "valueWithoutEarnings": "5000000000000000000000"
+      },
+      {
+        "id": "0x5203736c7c9ce65bf4092dca3c2e94c21fdc80f2",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xc378ae7020ae0615dde7d19c4a5213db5fc47767"
+            },
+            "operatorTokenBalanceWei": "77161010994367138762640"
+          }
+        ],
+        "owner": "0xc378ae7020ae0615dde7d19c4a5213db5fc47767",
+        "metadataJsonString": "{\"name\":\"Etlv\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "77161010994367138762640",
+        "valueWithoutEarnings": "77161010994367138762640"
+      },
+      {
+        "id": "0x52b58c9c11ca725799cfcf38855d64126f5a5a55",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x1e73ffbbb4c1cb8c0e56cfe730733579488657b9"
+            },
+            "operatorTokenBalanceWei": "48263502699098712937153"
+          }
+        ],
+        "owner": "0x1e73ffbbb4c1cb8c0e56cfe730733579488657b9",
+        "metadataJsonString": "{\"name\":\"NettoPianist\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "48263502699098712937153",
+        "valueWithoutEarnings": "48279144466775835180975"
+      },
+      {
+        "id": "0x54228d7576896171707f7e5b391eb5582f19c04a",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x89e1d6f04073a64ec49bb2a3a09d942ecbd68cf9"
+            },
+            "operatorTokenBalanceWei": "10769017986123273604019"
+          }
+        ],
+        "owner": "0x89e1d6f04073a64ec49bb2a3a09d942ecbd68cf9",
+        "metadataJsonString": "{\"name\":\"Organorf Streamr Node\",\"description\":\"Node-Runner\",\"redundancyFactor\":1,\"imageIpfsCid\":\"QmQ2udfLL3Ddf3c4ZDY23aYmn5kF52stXvx77BFGGJJnwT\"}",
+        "operatorTokenTotalSupplyWei": "10769017986123273604019",
+        "valueWithoutEarnings": "10769017986123273604019"
+      },
+      {
+        "id": "0x5539d3ca1ca2146255c9992880eea1d954e83e5d",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xc55f9bffc77cb66f4ece08976952b16ef7682ccd"
+            },
+            "operatorTokenBalanceWei": "5000000000000000000000"
+          }
+        ],
+        "owner": "0xc55f9bffc77cb66f4ece08976952b16ef7682ccd",
+        "metadataJsonString": "{\"name\":\"Ultra3\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5000000000000000000000",
+        "valueWithoutEarnings": "5000000000000000000000"
+      },
+      {
+        "id": "0x55d636d30fb5c935f05e5f88fb32f49fefed65cf",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x439446ae1ccd44f184fd6e1d844ea779444095d5"
+            },
+            "operatorTokenBalanceWei": "21552730332906328607934"
+          }
+        ],
+        "owner": "0x439446ae1ccd44f184fd6e1d844ea779444095d5",
+        "metadataJsonString": "{\"name\":\"MsT\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "21552730332906328607934",
+        "valueWithoutEarnings": "21552730332906328607934"
+      },
+      {
+        "id": "0x568eceb03629a1000f11cc5d36fad700839eaea3",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x02febd702ce3bc89bf74beee9a6abf68d7ff00b8"
+            },
+            "operatorTokenBalanceWei": "43479272006816649825376"
+          }
+        ],
+        "owner": "0x02febd702ce3bc89bf74beee9a6abf68d7ff00b8",
+        "metadataJsonString": "{\"name\":\"Brutus\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmTyDWaWp3Hhq7qvXYneKuq317nK1yfqQxtsbLaaBHiEim\"}",
+        "operatorTokenTotalSupplyWei": "43479272006816649825376",
+        "valueWithoutEarnings": "43506025047411572216329"
+      },
+      {
+        "id": "0x579280e92edc7d027359ae9cc94d57e98b721b1c",
+        "delegations": [],
+        "owner": "0xc8d284a9c84e8e63b7ff8c9112e931b4f17ecefb",
+        "metadataJsonString": "{\"name\":\"stream.me\",\"description\":\"\",\"redundancyFactor\":3}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x58d390aec0d9fb622b274ea7919cbc1a7514ddca",
+        "delegations": [],
+        "owner": "0xce28c01642f3175dd4c9114d7553de21e02aeb5a",
+        "metadataJsonString": "{\"name\":\"d3akash\",\"description\":\"Decentralization provider on streamr.network and akash.network\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmTg6sFfAok7VWKfgQ8jx7hNi5X8qRzqbUunqUXwu6NFKJ\"}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x58fe8409281fefe9875ed1d329735998dd1a0eb5",
+        "delegations": [],
+        "owner": "0x630ea45df2ab1ad964c4aac65fdbed1d8b814fe2",
+        "metadataJsonString": "{\"name\":\"Lordmido\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmbJWst4msyH7yg6JWuemS5NCeYJQfiX8faSw28Hd2moA7\"}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x595ab35d306df93a9f34a76695e854ffed740345",
+        "delegations": [],
+        "owner": "0x4d208ae53af25b95f1a107ab2781290d57806ed4",
+        "metadataJsonString": "{\"name\":\"FCC Capital\",\"description\":\"FCC Capital\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmTYWGFs4xJeNNdequvDnKwfvHaCb8Xp2gKNZHALtChhZE\"}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x5a6eb4699f9b74195e0e832152883e343e8cad65",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xf26afbdde05d00b7bc4f62145a1aea9fd0105b06"
+            },
+            "operatorTokenBalanceWei": "5081242981369274379079"
+          }
+        ],
+        "owner": "0xf26afbdde05d00b7bc4f62145a1aea9fd0105b06",
+        "metadataJsonString": "{\"name\":\"DrakeColdwinter\",\"description\":\"located in Quebec, fibe connection\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5081242981369274379079",
+        "valueWithoutEarnings": "5081242981369274379079"
+      },
+      {
+        "id": "0x5b975726e6676d111b62b95476c6f2868532aba4",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x164e5a79ce1c65f12d1e96e2ba737bf4cbc6c44e"
+            },
+            "operatorTokenBalanceWei": "216594103686811490156736"
+          },
+          {
+            "delegator": {
+              "id": "0x22fcaec71206f3e4422eb97ac9c846ea6b363a7b"
+            },
+            "operatorTokenBalanceWei": "15700000000000000000000"
+          },
+          {
+            "delegator": {
+              "id": "0x72e65042e5fe8ae73c4bfdf8ba86d961a4000770"
+            },
+            "operatorTokenBalanceWei": "102573022304633586291"
+          }
+        ],
+        "owner": "0x164e5a79ce1c65f12d1e96e2ba737bf4cbc6c44e",
+        "metadataJsonString": "{\"name\":\"MMG | Streamr Operator\",\"description\":\"======> Twitter \\\"X\\\" account: https://twitter.com/MMG_Streamr ======> MMG Discord server:  https://discord.gg/e55EhCYx7e\",\"redundancyFactor\":6,\"imageIpfsCid\":\"QmaLVZ5QxZ9CroEvfRdie3U3nAnfPijRyAV4Px9zM9sAwe\"}",
+        "operatorTokenTotalSupplyWei": "232396676709116123743027",
+        "valueWithoutEarnings": "232435564407730938846729"
+      },
+      {
+        "id": "0x5c36ff5b6fb2fbb556978c7dc71b550dce5313b1",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x0121065e6cd1b3282f6ea0743f79e147d7a1e6b7"
+            },
+            "operatorTokenBalanceWei": "17681492056344247010761"
+          },
+          {
+            "delegator": {
+              "id": "0x6b5001cddad6299e21ed595101323e158affd579"
+            },
+            "operatorTokenBalanceWei": "219998807778889724587340"
+          },
+          {
+            "delegator": {
+              "id": "0x725c49b2f78cf01c5119b1889a719926cd5c7089"
+            },
+            "operatorTokenBalanceWei": "298580267330270678078291"
+          },
+          {
+            "delegator": {
+              "id": "0xf895404abb5a89a512c6172545580a3627e9054a"
+            },
+            "operatorTokenBalanceWei": "661712460827312058943648"
+          }
+        ],
+        "owner": "0xf895404abb5a89a512c6172545580a3627e9054a",
+        "metadataJsonString": "{\"name\":\"NexuSecurus - 100% ReStake\",\"description\":\"High Availability Clusters - Server Grade Hardware - Hourly Monitored Node Support \",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmRA4w6PyxitqmtetnppveSTCzwXVqa36t9BCzk28j5prT\"}",
+        "operatorTokenTotalSupplyWei": "1197973027992816708620040",
+        "valueWithoutEarnings": "1198011956547823263102964"
+      },
+      {
+        "id": "0x5ca4c92adaea2ee70a89f9df8e096ba866aedb98",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x0a3c04b5db246bbaa253a7ddde014f4d221c5d11"
+            },
+            "operatorTokenBalanceWei": "646574424477671544693"
+          },
+          {
+            "delegator": {
+              "id": "0x5c8a23b9937febda9782dd317786008fd481dda7"
+            },
+            "operatorTokenBalanceWei": "31093279464770153970251"
+          },
+          {
+            "delegator": {
+              "id": "0xb49e9508ff49e53739a72435d3c41ed05519a4f0"
+            },
+            "operatorTokenBalanceWei": "471815697107503594461"
+          }
+        ],
+        "owner": "0x5c8a23b9937febda9782dd317786008fd481dda7",
+        "metadataJsonString": "{\"name\":\"Swiss DePIN\",\"description\":\"For a Decentralized data broadcasting choose Swiss Depin. We hyperscales live data for AI, video & DePIN via secure P2P\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmSuvNSVFZjVswK3fGd489r9GxGtF1c7LifQgreTYMwQyF\"}",
+        "operatorTokenTotalSupplyWei": "32211669586355329109405",
+        "valueWithoutEarnings": "31927845462317713369434"
+      },
+      {
+        "id": "0x5e0a364cdf5499e938ac4ccd5f1b0762ef240ee5",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xd937e8d00be2a11dd2ebdff9a5bcfc416c2978ba"
+            },
+            "operatorTokenBalanceWei": "67062370239080147875440"
+          }
+        ],
+        "owner": "0xd937e8d00be2a11dd2ebdff9a5bcfc416c2978ba",
+        "metadataJsonString": "{\"name\":\"WamaisixStreams\",\"description\":\"Lets join Wamaisi for more DATA!\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmSegYGU12B4z7YcLtmGAQXNFjy8zK9EswYH4L39xjqTD3\"}",
+        "operatorTokenTotalSupplyWei": "67062370239080147875440",
+        "valueWithoutEarnings": "67138512618791668238657"
+      },
+      {
+        "id": "0x5fe3da18aef56417a4e226b54c23cbe4fdf03858",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x042596cf8c56bae22750847a7eb19164fd1698fb"
+            },
+            "operatorTokenBalanceWei": "5000000000000000000000"
+          },
+          {
+            "delegator": {
+              "id": "0x583eebb8c3178c0ee4fa4c74536b987871ade682"
+            },
+            "operatorTokenBalanceWei": "5500000000000000000000"
+          }
+        ],
+        "owner": "0x583eebb8c3178c0ee4fa4c74536b987871ade682",
+        "metadataJsonString": "{\"name\":\"Magellan\",\"description\":\"\",\"redundancyFactor\":3}",
+        "operatorTokenTotalSupplyWei": "10500000000000000000000",
+        "valueWithoutEarnings": "10500000000000000000000"
+      },
+      {
+        "id": "0x632c871e448a52fea93d5d53d2b304417298c217",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x16832664a66ed32fe4ecea571bf77ec11c4415e3"
+            },
+            "operatorTokenBalanceWei": "17739000000000000000000"
+          }
+        ],
+        "owner": "0x16832664a66ed32fe4ecea571bf77ec11c4415e3",
+        "metadataJsonString": "{\"name\":\"Sebinouze\",\"description\":\"\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "17739000000000000000000",
+        "valueWithoutEarnings": "17739000000000000000000"
+      },
+      {
+        "id": "0x65b9266b84ddbd417e37f6bdf5265f1015fe146f",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x6922a1d33d73a02391351a4b0c31d48619221694"
+            },
+            "operatorTokenBalanceWei": "6000000000000000000000"
+          }
+        ],
+        "owner": "0x6922a1d33d73a02391351a4b0c31d48619221694",
+        "metadataJsonString": "{\"name\":\"The Smooth Operator (Streamr 1.0 mainnet)\",\"description\":\"\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "6000000000000000000000",
+        "valueWithoutEarnings": "6000000000000000000000"
+      },
+      {
+        "id": "0x6643e72011ed0fe124fdb61b11132a5a643f2732",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x600620baeada02160a8c08dd7deb4dbf2668d840"
+            },
+            "operatorTokenBalanceWei": "7773324967786421371504"
+          }
+        ],
+        "owner": "0x600620baeada02160a8c08dd7deb4dbf2668d840",
+        "metadataJsonString": "{\"name\":\"Bugalho\",\"description\":\"Our goal is 100% uptime with no slashing at all! We are always continously monitoring our nodes. Delegate with us! \",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmQ9UvAantNTJfGj5VboA5e17duHas1ejQKoEhmw1k2V4S\"}",
+        "operatorTokenTotalSupplyWei": "7773324967786421371504",
+        "valueWithoutEarnings": "7773324967786421371504"
+      },
+      {
+        "id": "0x666812f4e544bf523b8c690cf5b35ea40c2a372e",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xf6f69cf660eebc0f021482c55ba09ee1caa8162e"
+            },
+            "operatorTokenBalanceWei": "35049033547952557060751"
+          }
+        ],
+        "owner": "0xf6f69cf660eebc0f021482c55ba09ee1caa8162e",
+        "metadataJsonString": "{\"name\":\"CyberSentinelle (New)\",\"description\":\"Our operator ensures consistent functionality in all circumstances. Join us !\\ncybersentinelle.streamr@gmail.com\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmYM1jWTxy7qEDtka2CMQLF4eWjR84dseHVDN3yfbw15Ej\"}",
+        "operatorTokenTotalSupplyWei": "35049033547952557060751",
+        "valueWithoutEarnings": "35049033547952557060751"
+      },
+      {
+        "id": "0x685350f8ca38d48815bb670e480b24edd407e8d6",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x5479729956557d3d37a7ae5ac7a3fce95c7bd150"
+            },
+            "operatorTokenBalanceWei": "83454000000000000000000"
+          }
+        ],
+        "owner": "0x5479729956557d3d37a7ae5ac7a3fce95c7bd150",
+        "metadataJsonString": "{\"name\":\"bitManna\",\"description\":\"bitManna - we validate, we collate | Supporting networks, cloud scale, 99.9% uptime. Delegate and Stake with confidence.\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmXRhinTdZmdHUuioV5KDuTfBmaYwEJAacWc1hNBbiN2zE\"}",
+        "operatorTokenTotalSupplyWei": "83454000000000000000000",
+        "valueWithoutEarnings": "82648600108659754507160"
+      },
+      {
+        "id": "0x685837bcf26b9486913f02075e78105f0e4332eb",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x1b5fc9612480c94af9b459425bd966d3bec80054"
+            },
+            "operatorTokenBalanceWei": "61273215659579856130000"
+          }
+        ],
+        "owner": "0x1b5fc9612480c94af9b459425bd966d3bec80054",
+        "metadataJsonString": "{\"name\":\"NMFStreamr\",\"description\":\"\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmVCgKPVjMu2XTS7rfCcZZUqTMhD5f5tqe7eizJ7YukU6F\"}",
+        "operatorTokenTotalSupplyWei": "61273215659579856130000",
+        "valueWithoutEarnings": "61273215659579856130000"
+      },
+      {
+        "id": "0x686123590049a28e8a926462b457efbc7b4494c0",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x4cc69dbd822dfefb606209407e688beaf4af6e55"
+            },
+            "operatorTokenBalanceWei": "108657855160034440584105"
+          }
+        ],
+        "owner": "0x4cc69dbd822dfefb606209407e688beaf4af6e55",
+        "metadataJsonString": "{\"name\":\"Streamr for Days\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "108657855160034440584105",
+        "valueWithoutEarnings": "108676809091128469545684"
+      },
+      {
+        "id": "0x693815ed051f8c9e53db7ff8ae915bd85eb76734",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xe42e5a2d77385290e2c5dd3f7780f78506745f26"
+            },
+            "operatorTokenBalanceWei": "15720000000000000000000"
+          }
+        ],
+        "owner": "0xe42e5a2d77385290e2c5dd3f7780f78506745f26",
+        "metadataJsonString": "{\"name\":\"Olympus\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmXSKWLjt476SBepzN3m9jpLt2KbxeJHTuJq27aerQ7sYm\"}",
+        "operatorTokenTotalSupplyWei": "15720000000000000000000",
+        "valueWithoutEarnings": "15720000000000000000000"
+      },
+      {
+        "id": "0x6aa0c4c8b7059b31b65fc0809a240ee1ff0a969e",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x3ff15b69cead090110306d331f9c296cb9b28e38"
+            },
+            "operatorTokenBalanceWei": "24655058898000000000000"
+          }
+        ],
+        "owner": "0x3ff15b69cead090110306d331f9c296cb9b28e38",
+        "metadataJsonString": "{\"name\":\"709\",\"description\":\"Nodes for 709\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "24655058898000000000000",
+        "valueWithoutEarnings": "24755058898000000000000"
+      },
+      {
+        "id": "0x6ac8a39edbda5728d787a4133dbd5a29655a9531",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x0a7fb5faf6001426f7e0ae81c329800fdd3b30a1"
+            },
+            "operatorTokenBalanceWei": "23336077321744432376120"
+          },
+          {
+            "delegator": {
+              "id": "0x77847c5da38dc3d385b1753392c0b7ce64536930"
+            },
+            "operatorTokenBalanceWei": "115486543331694461449487"
+          },
+          {
+            "delegator": {
+              "id": "0x9f60c5ce81de17cc6ec93461203e3e53a908c546"
+            },
+            "operatorTokenBalanceWei": "10974067314384372089576"
+          },
+          {
+            "delegator": {
+              "id": "0xb833b853b851f7d2bfa4925ea08ef8a6d9409fb2"
+            },
+            "operatorTokenBalanceWei": "9885005523227532246691"
+          },
+          {
+            "delegator": {
+              "id": "0xc710f631d24383ba9c78e4d4c1184768b8952814"
+            },
+            "operatorTokenBalanceWei": "3431032895226712558984"
+          },
+          {
+            "delegator": {
+              "id": "0xda9909b3ed4e797204c0037cbf72a7fa2d3c0951"
+            },
+            "operatorTokenBalanceWei": "11232352147007747391231"
+          },
+          {
+            "delegator": {
+              "id": "0xe1020ef868185c774048c1712d50f6bdc0c61df0"
+            },
+            "operatorTokenBalanceWei": "455388087774034287065780"
+          }
+        ],
+        "owner": "0xe1020ef868185c774048c1712d50f6bdc0c61df0",
+        "metadataJsonString": "{\"name\":\"AaxCrypto\",\"description\":\"Geo-diverse nodes / Hands on owner & large self stake / Quick un-delegating / Join me @ https://discord.gg/FK67VaxDSH\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmZP2spZobo3osSDTnWWGo2o5mV68kdhoK5mBoLZuDsfmc\"}",
+        "operatorTokenTotalSupplyWei": "629733166307319545177869",
+        "valueWithoutEarnings": "629857716748190729802046"
+      },
+      {
+        "id": "0x6e78b2cc5a9183bf9ff95da83013d68555c701e7",
+        "delegations": [],
+        "owner": "0x158ad51b8faead67d5778cad8c9f923f5bbd6a95",
+        "metadataJsonString": "{\"name\":\"Nénésse33\",\"description\":\"Hello everyone, I am French. I come from a village in the North of France.\\nMy Discord : Nenesse33\\nSee you soon\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmXJbyhpUTEUaZX6vB6kDTwCK8rxGKMyPeZFkRPCV7e7tW\"}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x7086c975c083a7b29398769f7209e9cb3361f5e1",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xb20b2bd972500552307b0ff1e245b294e540836e"
+            },
+            "operatorTokenBalanceWei": "1848633582344847221518506"
+          }
+        ],
+        "owner": "0xb20b2bd972500552307b0ff1e245b294e540836e",
+        "metadataJsonString": "{\"name\":\"Too Simple\",\"description\":\"Sometimes Naive\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmShjjfLqE853g4CLPxJ2p6TcYAzLp4YhmaHUoZTaYYLjg\"}",
+        "operatorTokenTotalSupplyWei": "1848633582344847221518506",
+        "valueWithoutEarnings": "1848633582344847221518506"
+      },
+      {
+        "id": "0x708e7d12ff9d5a4a57c6f6e12d45fc658d9fd8f8",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x212aa63c85cd531f81d638f85f6aa5127c9e2a03"
+            },
+            "operatorTokenBalanceWei": "11000000000000000000000"
+          }
+        ],
+        "owner": "0x212aa63c85cd531f81d638f85f6aa5127c9e2a03",
+        "metadataJsonString": "{\"name\":\"PigDIP\",\"description\":\"\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "11000000000000000000000",
+        "valueWithoutEarnings": "10893304744520524733311"
+      },
+      {
+        "id": "0x712bcd73c28bf2b1ab6aa27b6c402b2e63385fd5",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xcfbb8a33308e60c729ae518d98bcc128711667e4"
+            },
+            "operatorTokenBalanceWei": "13244400128433793203378"
+          }
+        ],
+        "owner": "0xcfbb8a33308e60c729ae518d98bcc128711667e4",
+        "metadataJsonString": "{\"name\":\"DATA Node\",\"description\":\"0x7B69527528E7EffC3335eff7cF7892dA9A572DC7\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "13244400128433793203378",
+        "valueWithoutEarnings": "13244400128433793203378"
+      },
+      {
+        "id": "0x71a0cd18a24ec23335ed5d0f691b0dcb8efe26a7",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x2972125d64f5c10600769dd881394b002d45016b"
+            },
+            "operatorTokenBalanceWei": "25864367553765572878946"
+          }
+        ],
+        "owner": "0x2972125d64f5c10600769dd881394b002d45016b",
+        "metadataJsonString": "{\"name\":\"Monk Miner\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "25864367553765572878946",
+        "valueWithoutEarnings": "25864367553765572878946"
+      },
+      {
+        "id": "0x7290e477d3796dc34e0812e14baeef969c3d6946",
+        "delegations": [],
+        "owner": "0x73ca778f9abb8b87350ae2e820cfd4a11349c570",
+        "metadataJsonString": "{\"name\":\"Streamr Operator 1\",\"description\":\"Streamr Operator 1\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmVCgKPVjMu2XTS7rfCcZZUqTMhD5f5tqe7eizJ7YukU6F\"}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x72b3a395c52ee3495eb01f700182a4de5297dd20",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x9d6345c3f3cf428427eb26ce14de4f908a972168"
+            },
+            "operatorTokenBalanceWei": "8158732665059810455853"
+          }
+        ],
+        "owner": "0x9d6345c3f3cf428427eb26ce14de4f908a972168",
+        "metadataJsonString": "{\"name\":\"Afrodance\",\"description\":\"\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "8158732665059810455853",
+        "valueWithoutEarnings": "8158732665059810455853"
+      },
+      {
+        "id": "0x73aee5b2bca0d671a883b98712a6a34d83570ee8",
+        "delegations": [],
+        "owner": "0x3caee554e39e4ec6b89de43d5b41aa883d967bb9",
+        "metadataJsonString": "{\"name\":\"Pulse Streamr\",\"description\":\"🚀 Stake on Pulse StreamR! Why? 💼 Reliability 🤝 Partnership, delegate data 💸 Maximize Returns 🔒 Secure Tokens\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmbJS51vEKzpd7eNsnSr1aMpuBJEkod64kGvLkzKjjfffH\"}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x757951e12800b18b279afc25f1697aa2aa90cdcc",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x37482a4d72792c15c72b7cf624d1720338edf74c"
+            },
+            "operatorTokenBalanceWei": "35990463199965556494438"
+          }
+        ],
+        "owner": "0x37482a4d72792c15c72b7cf624d1720338edf74c",
+        "metadataJsonString": "{\"name\":\"Threab Operator\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmZSRKhMn1eBaoyAdg7XDpqzfP5Eoi4gcYS5MHLfXc6zcz\"}",
+        "operatorTokenTotalSupplyWei": "35990463199965556494438",
+        "valueWithoutEarnings": "35994657406356923817463"
+      },
+      {
+        "id": "0x76121afd652ec741b2c996ba664b3d7e9ff43901",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xfdffc979c69634802296caa87f70ecc3dcd8342d"
+            },
+            "operatorTokenBalanceWei": "20700000000000000000000"
+          }
+        ],
+        "owner": "0xfdffc979c69634802296caa87f70ecc3dcd8342d",
+        "metadataJsonString": "{\"name\":\"Denis B\",\"description\":\"The famous Denis B\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmPrCDswrUPfZXaPPasAYdJF82jUMSCkBjDjM6ApQwR5Nt\"}",
+        "operatorTokenTotalSupplyWei": "20700000000000000000000",
+        "valueWithoutEarnings": "20700000000000000000000"
+      },
+      {
+        "id": "0x7808f5127fc7a41da41d952907eac75de09fdcc2",
+        "delegations": [],
+        "owner": "0xf8ecec53b34d49574887f1dd30bba86469b8a407",
+        "metadataJsonString": "{\"name\":\"$Stream\",\"description\":\"Will be deploying on one of the fastest servers possible! \",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmW7JkGNFWG3KFecPLygwmY58tDxBdddw2cYdPFRw8riAx\"}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x785c098241c1fd24c084deb4624b335f7c89040f",
+        "delegations": [],
+        "owner": "0xdfd7d45f955fbda6a8f7c5de4964986ee0452dab",
+        "metadataJsonString": "{\"name\":\"boomin\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x7edf4107ad7845533e6507e6db38eb37160beca3",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x1372ff060cd9e51d16aba52a9170f76e57127680"
+            },
+            "operatorTokenBalanceWei": "43237172558833657658662"
+          }
+        ],
+        "owner": "0x1372ff060cd9e51d16aba52a9170f76e57127680",
+        "metadataJsonString": "{\"name\":\"Spongemoe (new)\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "43237172558833657658662",
+        "valueWithoutEarnings": "43241173299006019716938"
+      },
+      {
+        "id": "0x7ee89c4304f06e132296213352d45bbe85d3b487",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x6e69a391b8884841845c3250cfbc731062302ca9"
+            },
+            "operatorTokenBalanceWei": "5100000000000000000000"
+          }
+        ],
+        "owner": "0x6e69a391b8884841845c3250cfbc731062302ca9",
+        "metadataJsonString": "{\"name\":\"StrmOP\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5100000000000000000000",
+        "valueWithoutEarnings": "5100000000000000000000"
+      },
+      {
+        "id": "0x7f3ee908958adee7923720f5abf4d561e7ea416a",
+        "delegations": [],
+        "owner": "0x5ee96ae87869484bdabe9ed7745b3bdf3bb01ae5",
+        "metadataJsonString": "{\"name\":\"OZARKS Operator\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x7f9e49297a735b8e5e30917bb2847c9f53ec7e59",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xa6c8907a8c8fd92c03fa2573b98453e57b9810e3"
+            },
+            "operatorTokenBalanceWei": "436665050953018054604338"
+          }
+        ],
+        "owner": "0xa6c8907a8c8fd92c03fa2573b98453e57b9810e3",
+        "metadataJsonString": "{\"name\":\"RandomPlanet\",\"description\":\"Long time Crypto entrepreneur, with a background in IT and Music.,\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "436665050953018054604338",
+        "valueWithoutEarnings": "436677051438530131536734"
+      },
+      {
+        "id": "0x8299f11728da88c51d6171591809f71918b6365f",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x7181dab4121d934bebb0c9c8b0441e1c08bc7b77"
+            },
+            "operatorTokenBalanceWei": "15979680560407425905352"
+          }
+        ],
+        "owner": "0x7181dab4121d934bebb0c9c8b0441e1c08bc7b77",
+        "metadataJsonString": "{\"name\":\"Grumos.fr\",\"description\":\"\",\"redundancyFactor\":3}",
+        "operatorTokenTotalSupplyWei": "15979680560407425905352",
+        "valueWithoutEarnings": "15892106566063510417820"
+      },
+      {
+        "id": "0x82e4a5f95ead5a27256e30b0094cfb63f7e8cf03",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x8d4a3d361556d2c57802266130de1290d8e35869"
+            },
+            "operatorTokenBalanceWei": "10409881752366293970642"
+          }
+        ],
+        "owner": "0x8d4a3d361556d2c57802266130de1290d8e35869",
+        "metadataJsonString": "{\"name\":\"roisto\",\"description\":\"My personal node, but you can delegate if you want of course.\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmdNpLEKUzFT2h3tohK2zwZ6ec4ZfJWMqm1eVBekqLoNZH\"}",
+        "operatorTokenTotalSupplyWei": "10409881752366293970642",
+        "valueWithoutEarnings": "10409881752366293970642"
+      },
+      {
+        "id": "0x83f241d590667f4f92d36bfe03fb067043d792ff",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x1ca4c419994a7f222c6529fa6dafa183f0bd962b"
+            },
+            "operatorTokenBalanceWei": "2542525108885178956064"
+          },
+          {
+            "delegator": {
+              "id": "0x585a1af86ec8048fa0e0bb4b9d1d976079460f38"
+            },
+            "operatorTokenBalanceWei": "55970000000000000000000"
+          },
+          {
+            "delegator": {
+              "id": "0x8b167b894fd968fcbe7805b41e5ae653ec22300a"
+            },
+            "operatorTokenBalanceWei": "2457685049367639557837"
+          }
+        ],
+        "owner": "0x585a1af86ec8048fa0e0bb4b9d1d976079460f38",
+        "metadataJsonString": "{\"name\":\"actarus\",\"description\":\"4 nodes with redundancy of 3\\nOnline H24\\n1Gb fiber connection on each node\\nActive in the discord with a dedicated channel\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmQaModwrBddhsBkC6GwFgrUpLt6hmMKEqrvDJvsA4xgC6\"}",
+        "operatorTokenTotalSupplyWei": "60970210158252818513901",
+        "valueWithoutEarnings": "60970210158252818513901"
+      },
+      {
+        "id": "0x880a2958f8d530ba825cc4951f0f0f18908eeb53",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x7673b1316c94b0bb7135dd32b812ab81c5097fc7"
+            },
+            "operatorTokenBalanceWei": "56602285015347669174898"
+          }
+        ],
+        "owner": "0x7673b1316c94b0bb7135dd32b812ab81c5097fc7",
+        "metadataJsonString": "{\"name\":\"Streamernodea\",\"description\":\"stream node\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "56602285015347669174898",
+        "valueWithoutEarnings": "56602285015347669174898"
+      },
+      {
+        "id": "0x8c64653e780414e1a6189cff91000a620862e59a",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xb63a2ba291bbc45d7511e1b7e849930a7242e838"
+            },
+            "operatorTokenBalanceWei": "63295264356506630854246"
+          }
+        ],
+        "owner": "0xb63a2ba291bbc45d7511e1b7e849930a7242e838",
+        "metadataJsonString": "{\"name\":\"Ftkuhnsman\",\"description\":\"Ready to stream!\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmfRvoKrhB1RvzQbKwFZs8PHk4kGNiKnbuZty6xoQgtzVX\"}",
+        "operatorTokenTotalSupplyWei": "63295264356506630854246",
+        "valueWithoutEarnings": "63300190574082266164191"
+      },
+      {
+        "id": "0x8d73301ae96f9ecbbd77c6bc3ae74403149cd699",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x7a0c8b6cdb879cbc295c7f4248d847e16c7adde6"
+            },
+            "operatorTokenBalanceWei": "5100648769556498775744"
+          }
+        ],
+        "owner": "0x7a0c8b6cdb879cbc295c7f4248d847e16c7adde6",
+        "metadataJsonString": "{\"name\":\"Lordmido01\",\"redundancyFactor\":3}",
+        "operatorTokenTotalSupplyWei": "5100648769556498775744",
+        "valueWithoutEarnings": "5100648769556498775744"
+      },
+      {
+        "id": "0x8d9cf0353effad3afaeaa90dd08c04aebf60cc6d",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x4741f83e2fe41cd02b2a6845ca122951debfe227"
+            },
+            "operatorTokenBalanceWei": "11309527958941723360913"
+          }
+        ],
+        "owner": "0x4741f83e2fe41cd02b2a6845ca122951debfe227",
+        "metadataJsonString": "{\"name\":\"Global Edge\",\"description\":\"Blockchain Nodes and Solutions\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmTCn7LeXoZHrzvGFwwFPPfqEmbZKsn18WDEkmhaGi8oS2\"}",
+        "operatorTokenTotalSupplyWei": "11309527958941723360913",
+        "valueWithoutEarnings": "11311640287619540182191"
+      },
+      {
+        "id": "0x8e165682848260bf7fe63c242be87377d38e927a",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x1021f96e305f1dad9de36dea972a53a19c23ca71"
+            },
+            "operatorTokenBalanceWei": "5000000000000000000000"
+          }
+        ],
+        "owner": "0x1021f96e305f1dad9de36dea972a53a19c23ca71",
+        "metadataJsonString": "{\"name\":\"Node.Operator.R1\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5000000000000000000000",
+        "valueWithoutEarnings": "5000000000000000000000"
+      },
+      {
+        "id": "0x8eee17194515a71a70e8b4142b304b8238ddb73c",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x7aa15a6f584d82eb5486d80c43c221e3359eaa57"
+            },
+            "operatorTokenBalanceWei": "44628199369196601672888"
+          }
+        ],
+        "owner": "0x7aa15a6f584d82eb5486d80c43c221e3359eaa57",
+        "metadataJsonString": "{\"name\":\"Tiflis\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "44628199369196601672888",
+        "valueWithoutEarnings": "44628199369196601672888"
+      },
+      {
+        "id": "0x9103201f30871f018b9e8c0243d9b8971534ad77",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x363fbe2d0699a941aa31176eee53c5598627e565"
+            },
+            "operatorTokenBalanceWei": "12171987434388891667179"
+          }
+        ],
+        "owner": "0x363fbe2d0699a941aa31176eee53c5598627e565",
+        "metadataJsonString": "{\"name\":\"Artful Alchemist\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "12171987434388891667179",
+        "valueWithoutEarnings": "12179485996720216583575"
+      },
+      {
+        "id": "0x91152d8e26822c5968546072b010d2a89b372dc0",
+        "delegations": [],
+        "owner": "0x8ab0fb3ed9e1d4e36919e819155cc11560e63780",
+        "metadataJsonString": "{\"name\":\"kirofacto\",\"description\":\"\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0x91b6564ca85970dd00728da43e25912b2919ffa8",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x3ed2d2986543f1a0732e418b76569e74b128c450"
+            },
+            "operatorTokenBalanceWei": "5000367314165619868170"
+          }
+        ],
+        "owner": "0x3ed2d2986543f1a0732e418b76569e74b128c450",
+        "metadataJsonString": "{\"name\":\"Happy_Streamr\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5000367314165619868170",
+        "valueWithoutEarnings": "5003674970211700805778"
+      },
+      {
+        "id": "0x92de146f338d1e633a17b6caedcfb91122060c75",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x001468e47c32a817fa5af34b8396cb87e4093167"
+            },
+            "operatorTokenBalanceWei": "21737346538523219023705"
+          },
+          {
+            "delegator": {
+              "id": "0x57467a3dc469ccf089f5a104e28efc8af18b3dd1"
+            },
+            "operatorTokenBalanceWei": "97794648969323959527055"
+          },
+          {
+            "delegator": {
+              "id": "0xb422021e376b009525642dcc031b0c40e247f9d1"
+            },
+            "operatorTokenBalanceWei": "30006388783847147788783"
+          },
+          {
+            "delegator": {
+              "id": "0xda316cc0277834729df951e133cd8e63ec8afebe"
+            },
+            "operatorTokenBalanceWei": "79072098248377056062986"
+          }
+        ],
+        "owner": "0xb422021e376b009525642dcc031b0c40e247f9d1",
+        "metadataJsonString": "{\"name\":\"Dusterbusch\",\"description\":\"\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmbxaWDz4ZGGDAau9MjXyFdBaqgRvs5G9ccrN2bncjp99G\"}",
+        "operatorTokenTotalSupplyWei": "228610482540071382402529",
+        "valueWithoutEarnings": "228699892954193285006316"
+      },
+      {
+        "id": "0x944ad6503a14b80632ffabcd746574808b0823b7",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xc0befeefb561897e3a3f90de5f42b3c876b99806"
+            },
+            "operatorTokenBalanceWei": "20234046206121706042006"
+          }
+        ],
+        "owner": "0xc0befeefb561897e3a3f90de5f42b3c876b99806",
+        "metadataJsonString": "{\"name\":\"CyberStreamRedux\",\"description\":\"CyberStreamRedux\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmQaz3GLhKXzbUwKLjxFm6ziSUAYRztk86E9XadQpc8KJN\"}",
+        "operatorTokenTotalSupplyWei": "20234046206121706042006",
+        "valueWithoutEarnings": "20234046206121706042006"
+      },
+      {
+        "id": "0x95f21ca35f26ae5926c990ebef970926467f048a",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xc939eb40ac9b6dde2e623d6fe780cb47a493d5d4"
+            },
+            "operatorTokenBalanceWei": "1786428576290889317939"
+          }
+        ],
+        "owner": "0xc939eb40ac9b6dde2e623d6fe780cb47a493d5d4",
+        "metadataJsonString": "{\"name\":\"Cheese Cake\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "1786428576290889317939",
+        "valueWithoutEarnings": "1786428576290889317939"
+      },
+      {
+        "id": "0x97be97f738b1a3fa35ba10e1f25dd3fb23717f12",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xbda3fa59155c064c3149d77d6e305381f1ba7b02"
+            },
+            "operatorTokenBalanceWei": "1281862845577633037388"
+          }
+        ],
+        "owner": "0xbda3fa59155c064c3149d77d6e305381f1ba7b02",
+        "metadataJsonString": "{\"name\":\"H2Ostreamr\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "1281862845577633037388",
+        "valueWithoutEarnings": "1281862845577633037388"
+      },
+      {
+        "id": "0x9873b5ebeaee963929a18e77af3ac66b20cf3de0",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x176d9347d31d41cbec66f68a00e30dfbd4c78f0f"
+            },
+            "operatorTokenBalanceWei": "5219770345513444801419"
+          },
+          {
+            "delegator": {
+              "id": "0x2178b8bb29fa3ab77af0db69857053326a820158"
+            },
+            "operatorTokenBalanceWei": "937785460704068382382"
+          },
+          {
+            "delegator": {
+              "id": "0x3d0fbf66d5333941a1f77bc47659bd1966220376"
+            },
+            "operatorTokenBalanceWei": "48224715451570642933559"
+          },
+          {
+            "delegator": {
+              "id": "0x498eb65f655cec8e26367da2efec9e565f242ba5"
+            },
+            "operatorTokenBalanceWei": "13616019520425992683773"
+          },
+          {
+            "delegator": {
+              "id": "0x60580737520267df976d16b69dd6b0880722c345"
+            },
+            "operatorTokenBalanceWei": "101805669513873420180977"
+          },
+          {
+            "delegator": {
+              "id": "0x85029f5ea54742c64632a27f47526825240fe285"
+            },
+            "operatorTokenBalanceWei": "18698377672910003923174"
+          },
+          {
+            "delegator": {
+              "id": "0x88bf450caccd8795dd671e694a280e53d9d29782"
+            },
+            "operatorTokenBalanceWei": "53021620488493785193906"
+          },
+          {
+            "delegator": {
+              "id": "0x8fda31168daef4f111d2b36ea4d777d3d21048ab"
+            },
+            "operatorTokenBalanceWei": "3893952778113398592246"
+          },
+          {
+            "delegator": {
+              "id": "0x961066afcbaff2f97a4dda2e8cc16cf19356cb77"
+            },
+            "operatorTokenBalanceWei": "248688017518780378113902"
+          },
+          {
+            "delegator": {
+              "id": "0xade3e428274ec1e17d284fc0e113a2aebf089c53"
+            },
+            "operatorTokenBalanceWei": "10483505871292207513022"
+          },
+          {
+            "delegator": {
+              "id": "0xafc3444e48eb831419e96b6284431b5ed4dc8329"
+            },
+            "operatorTokenBalanceWei": "301186275738045878779552"
+          },
+          {
+            "delegator": {
+              "id": "0xc6ea091a8623771be52db5f662b2a445a598fab3"
+            },
+            "operatorTokenBalanceWei": "9343037761261467100648"
+          },
+          {
+            "delegator": {
+              "id": "0xe8b11a762e978f16f183f74126d4c4fb035151b7"
+            },
+            "operatorTokenBalanceWei": "18872820813199943747462"
+          },
+          {
+            "delegator": {
+              "id": "0xfb6d9a31d8e2d4ad08d112f3814f6d4fb2af6488"
+            },
+            "operatorTokenBalanceWei": "3848981180035576831872"
+          }
+        ],
+        "owner": "0xafc3444e48eb831419e96b6284431b5ed4dc8329",
+        "metadataJsonString": "{\"name\":\"Zzz Money Club\",\"description\":\"Members of our community and this node will get entered into regular giveaways. https://whop.com/zzz-money-club/\",\"redundancyFactor\":2,\"imageIpfsCid\":\"Qmf3Y2P1EcY7eRekeYFMBaqsQgnFjwoD9GzY2u2nn4FGjc\"}",
+        "operatorTokenTotalSupplyWei": "837840550114220208777894",
+        "valueWithoutEarnings": "837866263728450044416121"
+      },
+      {
+        "id": "0x9b22c3e1761f50cc6994e1ff845f0652253d0292",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xa199476472c365cd09ee084815cee463281c155a"
+            },
+            "operatorTokenBalanceWei": "18993812726110359475434"
+          }
+        ],
+        "owner": "0xa199476472c365cd09ee084815cee463281c155a",
+        "metadataJsonString": "{\"name\":\"FrBZHOper\",\"description\":\"French operator located in two regions in Brittany and Normandy with 1Gbps links, operated by a Cloud Engineer\\n\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmPWhEQ1nN8bg4pPTXTWZUVUZ1EaEEX5TwsA17KuzkFrAt\"}",
+        "operatorTokenTotalSupplyWei": "18993812726110359475434",
+        "valueWithoutEarnings": "18993812726110359475434"
+      },
+      {
+        "id": "0x9dc639a2f4f530d45949914b7f6ae0be1a6a038f",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xf1711905ee7015bfde6dce2d9c7c0b0246cafb5f"
+            },
+            "operatorTokenBalanceWei": "5953981826713543840823"
+          }
+        ],
+        "owner": "0xf1711905ee7015bfde6dce2d9c7c0b0246cafb5f",
+        "metadataJsonString": "{\"name\":\"DATA_Like_Water\",\"description\":\"\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "5953981826713543840823",
+        "valueWithoutEarnings": "5953981826713543840823"
+      },
+      {
+        "id": "0x9ea339ac1744c0e0892b50534f6a57975a85965b",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x6766ee1332f6fc973b86a0d83f41557e046d455c"
+            },
+            "operatorTokenBalanceWei": "25901975867936086574821"
+          }
+        ],
+        "owner": "0x6766ee1332f6fc973b86a0d83f41557e046d455c",
+        "metadataJsonString": "{\"name\":\"lolo\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "25901975867936086574821",
+        "valueWithoutEarnings": "25906141921677405126697"
+      },
+      {
+        "id": "0x9ebff7cec86ffd8bf0553aca60c5dce64850c60a",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x54dd72948c8176d742817767217fff3de2a17e77"
+            },
+            "operatorTokenBalanceWei": "22500292216410589073245"
+          }
+        ],
+        "owner": "0x54dd72948c8176d742817767217fff3de2a17e77",
+        "metadataJsonString": "{\"name\":\"Zinger Data Nodes\",\"description\":\"Zinger data nodes offer the promise of stability and redundancy. Capacity improvements done on a continuous basis.\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmSwPDKiCptYWyuEVXDxNEHxH7HCQMNotZg9eTVQMJcJ3C\"}",
+        "operatorTokenTotalSupplyWei": "22500292216410589073245",
+        "valueWithoutEarnings": "22502922505269984786624"
+      },
+      {
+        "id": "0x9f580f2fd1cba5d1269023ce134b570db5aab705",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x624ce1ed71e1b1024c96a0e5582476847292840f"
+            },
+            "operatorTokenBalanceWei": "7005383922854615751413"
+          }
+        ],
+        "owner": "0x624ce1ed71e1b1024c96a0e5582476847292840f",
+        "metadataJsonString": "{\"name\":\"node worker\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "7005383922854615751413",
+        "valueWithoutEarnings": "7005383922854615751413"
+      },
+      {
+        "id": "0xa040c958a5f58f19ced651a4b9463ff80cf6fb2c",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x829cb63c3220c66ad563641d342ff152a5ee3390"
+            },
+            "operatorTokenBalanceWei": "20000000000000000000000"
+          }
+        ],
+        "owner": "0x829cb63c3220c66ad563641d342ff152a5ee3390",
+        "metadataJsonString": "{\"name\":\"DataMiningCenter\",\"description\":\"DataMiningCenter\",\"redundancyFactor\":3,\"imageIpfsCid\":\"Qmdmt5WafK2CnR1tH6RcjcMTJfditrQEbAJHLBs8WL8m9B\"}",
+        "operatorTokenTotalSupplyWei": "20000000000000000000000",
+        "valueWithoutEarnings": "20000000000000000000000"
+      },
+      {
+        "id": "0xa0c0fe2ba03d8f51e5c8e0329cf1194a559ca31c",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x23595ab80f56367b585947fe8f0a883b3bf08c05"
+            },
+            "operatorTokenBalanceWei": "20026703692608600978844"
+          },
+          {
+            "delegator": {
+              "id": "0x5f9d3f84c7a433a15199999fe69eadb7e2d2fa21"
+            },
+            "operatorTokenBalanceWei": "21538451068281690924219"
+          },
+          {
+            "delegator": {
+              "id": "0x697d41551bc827c19882bb87f6a244016e897aaa"
+            },
+            "operatorTokenBalanceWei": "16153796961914030777661"
+          },
+          {
+            "delegator": {
+              "id": "0x9fc5dcfb15086fa19e5ce35894f8755f89dfff19"
+            },
+            "operatorTokenBalanceWei": "16153796961914030777661"
+          },
+          {
+            "delegator": {
+              "id": "0xd50dc208003337b3a224b86bc37d07f3c7318abc"
+            },
+            "operatorTokenBalanceWei": "16153796961914030777661"
+          },
+          {
+            "delegator": {
+              "id": "0xd79a6234afffef012ee2c613d018d1459add4d7a"
+            },
+            "operatorTokenBalanceWei": "16153796961914030777662"
+          }
+        ],
+        "owner": "0x23595ab80f56367b585947fe8f0a883b3bf08c05",
+        "metadataJsonString": "{\"name\":\"3N\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "106180342608546415013708",
+        "valueWithoutEarnings": "106262399169042832683830"
+      },
+      {
+        "id": "0xa6a034a6bfb96ef57c3bc685637a62a5edca3f98",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x2089eb5ef957fa431fc2b0b8aefb63caeb46ba8d"
+            },
+            "operatorTokenBalanceWei": "126883923912978471035573"
+          }
+        ],
+        "owner": "0x2089eb5ef957fa431fc2b0b8aefb63caeb46ba8d",
+        "metadataJsonString": "{\"name\":\"Daydreamer\",\"description\":\"From Belgium.... with love\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "126883923912978471035573",
+        "valueWithoutEarnings": "126883923912978471035573"
+      },
+      {
+        "id": "0xa7438c9d3808fc8aaad985c30376f561a9c1c9f3",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x014991d376781b7bb4c6d68de0fbf353730323ae"
+            },
+            "operatorTokenBalanceWei": "5712979754096837429085"
+          }
+        ],
+        "owner": "0x014991d376781b7bb4c6d68de0fbf353730323ae",
+        "metadataJsonString": "{\"name\":\"bergi datanode\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmdXjFHfU2juGt9W6hqaBjaWzvVQkswF72xHRmQhyBiV2S\"}",
+        "operatorTokenTotalSupplyWei": "5712979754096837429085",
+        "valueWithoutEarnings": "5712979754096837429085"
+      },
+      {
+        "id": "0xa7f00f73847dc6aabb96fe36e8250907f8f4e67e",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x5bd71294b34294bd7f8b0de13282030b5400acd3"
+            },
+            "operatorTokenBalanceWei": "11911251241794871881417"
+          }
+        ],
+        "owner": "0x5bd71294b34294bd7f8b0de13282030b5400acd3",
+        "metadataJsonString": "{\"name\":\"NodesAddicted.com\",\"description\":\"We are Blockchain Node Operators, we setup and maintain decentralized nodes which are part of DePINs for Web3 projects.\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmUyP7TsRk2CeqsUbDCZnvzkEQHztrtQ1f9mvX1iLkoq3k\"}",
+        "operatorTokenTotalSupplyWei": "11911251241794871881417",
+        "valueWithoutEarnings": "11911251241794871881417"
+      },
+      {
+        "id": "0xa800986b2e45dc92c385f8f970fafbad55d2e8b1",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xf060896b6fa23b1cca495c552fc85b47f3cea5c1"
+            },
+            "operatorTokenBalanceWei": "6778970962864322238211"
+          }
+        ],
+        "owner": "0xf060896b6fa23b1cca495c552fc85b47f3cea5c1",
+        "metadataJsonString": "{\"name\":\"Node Admins\",\"description\":\"100% uptime, your're welcome to stake\\n\\nhttps://nodeadmins.com/\\n\\nhttps://shorter.gg/gKNsVG\\n\",\"redundancyFactor\":1,\"imageIpfsCid\":\"QmNcA835WhwA8zoCb2gabFpT7EKSW7obcswTHSDYeZbMY4\"}",
+        "operatorTokenTotalSupplyWei": "6778970962864322238211",
+        "valueWithoutEarnings": "6778970962864322238211"
+      },
+      {
+        "id": "0xad0b0fdd30fc335a9a6ffee79351aafee144745f",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x904b3f6d3b88c4a5a880bc89633172c1d1d1b860"
+            },
+            "operatorTokenBalanceWei": "10218974289203386244082"
+          }
+        ],
+        "owner": "0x904b3f6d3b88c4a5a880bc89633172c1d1d1b860",
+        "metadataJsonString": "{\"name\":\"Agape Blessings\",\"description\":\"Agape Blessings A node operator weaving digital connections with compassion, fostering a network of positivity & support\",\"redundancyFactor\":1,\"imageIpfsCid\":\"QmUS1WpeYwaF6jczBCLJMvVTUPFPRYXXBgbsYmRWoSJKPS\"}",
+        "operatorTokenTotalSupplyWei": "10218974289203386244082",
+        "valueWithoutEarnings": "10218974289203386244082"
+      },
+      {
+        "id": "0xaebd01330cb5f4d1893d1c52987a7ae309f9b66f",
+        "delegations": [],
+        "owner": "0xa1dba3db13203c3cbadd45c3ea52aa2936b62834",
+        "metadataJsonString": "{\"name\":\"DJantonio\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0xb1c09aa4ac8f546d7159c5b2d75d79ae396dbddb",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x9f30e3708f39dc482288eaac10e1f13a086fab05"
+            },
+            "operatorTokenBalanceWei": "5045557200000000000000"
+          }
+        ],
+        "owner": "0x9f30e3708f39dc482288eaac10e1f13a086fab05",
+        "metadataJsonString": "{\"name\":\"yostreamr\",\"description\":\"\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "5045557200000000000000",
+        "valueWithoutEarnings": "5045557200000000000000"
+      },
+      {
+        "id": "0xb39122fc9095606fa5e1f54b040ffaf0b324af4d",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xf150bfb8158cf9c551d48369d2fad49e70649390"
+            },
+            "operatorTokenBalanceWei": "5100000000000000000000"
+          }
+        ],
+        "owner": "0xf150bfb8158cf9c551d48369d2fad49e70649390",
+        "metadataJsonString": "{\"name\":\"Tacticarais\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5100000000000000000000",
+        "valueWithoutEarnings": "5100000000000000000000"
+      },
+      {
+        "id": "0xb3f8cc92cf1b4a9be894360a880cc5d39bb8da4e",
+        "delegations": [],
+        "owner": "0x8a177e55c931eb1ecdf326f86e38e7d2b4f4cc1c",
+        "metadataJsonString": "{\"name\":\"38b\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0xb405e24d060bd187bb15bc9de97eb8f4f6ee7f59",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xd1be54b994c89c07b1779f77be6781d4c72a3164"
+            },
+            "operatorTokenBalanceWei": "8331651289281662423359"
+          }
+        ],
+        "owner": "0xd1be54b994c89c07b1779f77be6781d4c72a3164",
+        "metadataJsonString": "{\"name\":\"root\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "8331651289281662423359",
+        "valueWithoutEarnings": "8331651289281662423359"
+      },
+      {
+        "id": "0xb4bb214fa41c97a269f2408a61744adfbfa2a840",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x404f53a2755b4a9d4c47d01ebcc298e4fb9704a9"
+            },
+            "operatorTokenBalanceWei": "19726101901367294006393"
+          }
+        ],
+        "owner": "0x404f53a2755b4a9d4c47d01ebcc298e4fb9704a9",
+        "metadataJsonString": "{\"name\":\"DavOperatorStreamR-Mainnet RC\",\"description\":\"Node Operator with 2 redundancies at 2 different locations. Enjoy.\",\"redundancyFactor\":2,\"imageIpfsCid\":\"Qmf6bUBJ5bJDt92hz5C45iG1qpBo2G7h88AsL5qgMCbRgN\"}",
+        "operatorTokenTotalSupplyWei": "19726101901367294006393",
+        "valueWithoutEarnings": "19726101901367294006393"
+      },
+      {
+        "id": "0xb62d2bd3b9167f53ae1777842cc1b13bf3c7fbda",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xde866272360459418c97795737c0a72dbe6d743e"
+            },
+            "operatorTokenBalanceWei": "80058346110670540547390"
+          }
+        ],
+        "owner": "0xde866272360459418c97795737c0a72dbe6d743e",
+        "metadataJsonString": "{\"name\":\"NodeBitsDAO\",\"description\":\"NodeBitsDAO.com\\nFractional node services.\\nDAO hosted on @desoprotocol through @openfund_com\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmTRnEY8KeQfWqG3dJCAGS9FSKw79xG94w79u9fC5BnNdA\"}",
+        "operatorTokenTotalSupplyWei": "80058346110670540547390",
+        "valueWithoutEarnings": "80058346110670540547390"
+      },
+      {
+        "id": "0xb677b9860ff4cdee53e51ace943c3cb5ccb262a9",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x0c3385f3c5ea36d534ad9daaf546eeb7fc1eafb6"
+            },
+            "operatorTokenBalanceWei": "28110564609031437933909"
+          }
+        ],
+        "owner": "0x0c3385f3c5ea36d534ad9daaf546eeb7fc1eafb6",
+        "metadataJsonString": "{\"name\":\"RaD3v.Cloud\",\"description\":\"For more info - https://discord.gg/aWZUnRNp\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmVGbLBVq1U4HuxFmYQhbgSbVrZesieuLnYdS3o5zi6SDK\"}",
+        "operatorTokenTotalSupplyWei": "28110564609031437933909",
+        "valueWithoutEarnings": "28135158327463422976497"
+      },
+      {
+        "id": "0xbad30e9aadc2f981c7fb8767b905a015c47324f0",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x4e599110f459ce323fc9922e04cc56526d0935ed"
+            },
+            "operatorTokenBalanceWei": "15380000000000000000"
+          }
+        ],
+        "owner": "0x4e599110f459ce323fc9922e04cc56526d0935ed",
+        "metadataJsonString": "{\"name\":\"kirofacto\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "15380000000000000000",
+        "valueWithoutEarnings": "15380000000000000000"
+      },
+      {
+        "id": "0xbb3f8736fefe4774bb1dbb1c45b7e1d2fdae2f97",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x8a591a669a2c12cfe3a2ef5819b6f0a6eb8472f8"
+            },
+            "operatorTokenBalanceWei": "434406545566254887708"
+          }
+        ],
+        "owner": "0x8a591a669a2c12cfe3a2ef5819b6f0a6eb8472f8",
+        "metadataJsonString": "{\"name\":\"FCC Capital (OLD)\",\"description\":\"FCC Capital\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmTYWGFs4xJeNNdequvDnKwfvHaCb8Xp2gKNZHALtChhZE\"}",
+        "operatorTokenTotalSupplyWei": "434406545566254887708",
+        "valueWithoutEarnings": "384443077580846951767"
+      },
+      {
+        "id": "0xbb7c82f7ed7defa5b1a70fd0629f88fb57a6c4df",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xb02ea92d5e0b667dc79487dbd34073e8f83ebf6c"
+            },
+            "operatorTokenBalanceWei": "2138069291962379266551"
+          }
+        ],
+        "owner": "0xb02ea92d5e0b667dc79487dbd34073e8f83ebf6c",
+        "metadataJsonString": "{\"name\":\"StreamRelayer\",\"description\":\"Relays data from 3 domains worldwide. Each relayer's specs:\\n- Network Bandwith (Gbps):4\\n- OCPU Count:4\\n- Memory (GB):12\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmTPrzajLPhV2zuKTXDMpSGtrAK5tBoNmT3oEzZS7hGHH1\"}",
+        "operatorTokenTotalSupplyWei": "2138069291962379266551",
+        "valueWithoutEarnings": "2138069291962379266551"
+      },
+      {
+        "id": "0xbba59c475bc01135cfaed8c6b653aee7c0ef0c55",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x9757ec072cfde29523aaf0a3d3aa3deccbfc5e74"
+            },
+            "operatorTokenBalanceWei": "77957788561592243479838"
+          }
+        ],
+        "owner": "0x9757ec072cfde29523aaf0a3d3aa3deccbfc5e74",
+        "metadataJsonString": "{\"name\":\"OCTIVIO\",\"description\":\"Nodes with Geo Redundancy with 4 Nodes. \\n30 years of experience on IT infrastructure.\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmZB6xGynHTUgfXLcw4AnpBKdJCWDJH4GYNXR42ZPQUprL\"}",
+        "operatorTokenTotalSupplyWei": "77957788561592243479838",
+        "valueWithoutEarnings": "78024425875146800901908"
+      },
+      {
+        "id": "0xbd25cc1d96724b43dd629381cff100fe6977454d",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xe885b66814397064f49859d95035017d0fff0255"
+            },
+            "operatorTokenBalanceWei": "93880333796714146277226"
+          }
+        ],
+        "owner": "0xe885b66814397064f49859d95035017d0fff0255",
+        "metadataJsonString": "{\"name\":\"Nodilicous\",\"description\":\"Simple Streamr delegate node. \\n\\nWeekly auto-compound. \\nQuarterly bonus rewards. \\n\\nDiscord: mrpubnight (mrpubnight#5542)\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmamMuZ9QkHwTxRCcw6ABB2WcZ9QHEHYTRAaUiXBscJBG6\"}",
+        "operatorTokenTotalSupplyWei": "93880333796714146277226",
+        "valueWithoutEarnings": "93884333285512075648487"
+      },
+      {
+        "id": "0xbf03ab70306a455adfaf9c0e76a95cdd082e58e4",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x397ff15917790eaebe4359e4a71739ca0aa07673"
+            },
+            "operatorTokenBalanceWei": "6202419413197003045084"
+          }
+        ],
+        "owner": "0x397ff15917790eaebe4359e4a71739ca0aa07673",
+        "metadataJsonString": "{\"name\":\"acerieus\",\"description\":\"\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "6202419413197003045084",
+        "valueWithoutEarnings": "6202419413197003045084"
+      },
+      {
+        "id": "0xbf3cbe5ef56f87a072d3673d074ed8abd2b67373",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x65b579f03f9d7fd6504f10ea5d885a2b694cb4ff"
+            },
+            "operatorTokenBalanceWei": "5000000000000000000000"
+          }
+        ],
+        "owner": "0x65b579f03f9d7fd6504f10ea5d885a2b694cb4ff",
+        "metadataJsonString": "{\"name\":\"pinang-fleet\",\"description\":\"migrated from coconut-fleet\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5000000000000000000000",
+        "valueWithoutEarnings": "5000000000000000000000"
+      },
+      {
+        "id": "0xbf516194b36bd6af2819fb791065a8fc41ec649b",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x91fc4c2788a3a0a972e432a2e79f5cd8a3801a33"
+            },
+            "operatorTokenBalanceWei": "42697436648863932298175"
+          }
+        ],
+        "owner": "0x91fc4c2788a3a0a972e432a2e79f5cd8a3801a33",
+        "metadataJsonString": "{\"name\":\"CHEMONODE\",\"description\":\"THE MOST NEGLIGENT NODE IN THE STREAMR NETWORK\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmaNsXfVbXmsSc5HhWFWmuMumaoDKqaw1jxmAaezDqqyHJ\"}",
+        "operatorTokenTotalSupplyWei": "42697436648863932298175",
+        "valueWithoutEarnings": "42271844125819044178166"
+      },
+      {
+        "id": "0xbfda420c8c5544fec741efd973cd850af40cfd84",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x13551bf18d289fb7ee8be6fbf92d48b5cb8a8747"
+            },
+            "operatorTokenBalanceWei": "3718652485805900871874"
+          },
+          {
+            "delegator": {
+              "id": "0xa45d66c0daab83a841cb1d8c12ae5fed96ed115c"
+            },
+            "operatorTokenBalanceWei": "2177385327206520876811782"
+          }
+        ],
+        "owner": "0xa45d66c0daab83a841cb1d8c12ae5fed96ed115c",
+        "metadataJsonString": "{\"name\":\"Dreamr\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmZDuRPG6HganhMHxq42V3Sf9RFRkHjBdZhVkRWJiFY9BB\"}",
+        "operatorTokenTotalSupplyWei": "2181103979692326777683656",
+        "valueWithoutEarnings": "2181105983108031328771773"
+      },
+      {
+        "id": "0xc05562dbdc3472ac23b5b3d18f9d8f1debb12374",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xc39271110a7f2e210492d730d2586d32e2c2c37d"
+            },
+            "operatorTokenBalanceWei": "6035866617571360635120"
+          }
+        ],
+        "owner": "0xc39271110a7f2e210492d730d2586d32e2c2c37d",
+        "metadataJsonString": "{\"name\":\"zagyzagyNode\",\"description\":\"\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "6035866617571360635120",
+        "valueWithoutEarnings": "6035866617571360635120"
+      },
+      {
+        "id": "0xc09856377803afade096ffb899b0cd695d4db9a3",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x2b3f372492706913bb60fa869605cd5d8acc3cd0"
+            },
+            "operatorTokenBalanceWei": "5000000000000000000000"
+          }
+        ],
+        "owner": "0x2b3f372492706913bb60fa869605cd5d8acc3cd0",
+        "metadataJsonString": "{\"name\":\"Le Coin du Mineur\",\"description\":\"Node StreamR Le Coin Du Mineur\",\"redundancyFactor\":4,\"imageIpfsCid\":\"QmYGRgcYFGPeAYB2LMj2pDESTcMYNcqS5SEo9J2VFBM4aZ\"}",
+        "operatorTokenTotalSupplyWei": "5000000000000000000000",
+        "valueWithoutEarnings": "5000000000000000000000"
+      },
+      {
+        "id": "0xc49a3b9414f579a87097361cd5b0a3de61f4c623",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x496d4cdfce1690a098c2a3c8ee40ed2c23a199e5"
+            },
+            "operatorTokenBalanceWei": "3000000000000000000"
+          }
+        ],
+        "owner": "0x496d4cdfce1690a098c2a3c8ee40ed2c23a199e5",
+        "metadataJsonString": "{\"name\":\"Spider\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "3000000000000000000",
+        "valueWithoutEarnings": "3000000000000000000"
+      },
+      {
+        "id": "0xc62ee4c50c8fcbc93c6f6c87073bb66f82ad5035",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x4d61abac50ae13c08efc4de0ec9ef4c2857dcd9f"
+            },
+            "operatorTokenBalanceWei": "234854813027083246973542"
+          }
+        ],
+        "owner": "0x4d61abac50ae13c08efc4de0ec9ef4c2857dcd9f",
+        "metadataJsonString": "{\"name\":\"LatencySlayer\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmV3F5zJgWz7tgdhPiP5YegRMJMn77xwC9Tdxn8effF628\"}",
+        "operatorTokenTotalSupplyWei": "234854813027083246973542",
+        "valueWithoutEarnings": "234854813027083246973542"
+      },
+      {
+        "id": "0xc6aa9614de23d8b654c658c5c5891189270a2bdb",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x2154c44c7e74ebf130a810adb2cdff2d4a35a603"
+            },
+            "operatorTokenBalanceWei": "321700000000000000000"
+          },
+          {
+            "delegator": {
+              "id": "0x3685f20b81a9c110bbcb971409961df1c54912c8"
+            },
+            "operatorTokenBalanceWei": "4980000000000000000000"
+          }
+        ],
+        "owner": "0x2154c44c7e74ebf130a810adb2cdff2d4a35a603",
+        "metadataJsonString": "{\"name\":\"StreamrOnFlux\",\"description\":\"Streamr node deploys on runonflux.io\\nSetup by Chee Wee\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmYKq42NxYgCfNLe8kjkDFLHZZc3Wr9TgWCfuVP9uGN4oC\"}",
+        "operatorTokenTotalSupplyWei": "5301700000000000000000",
+        "valueWithoutEarnings": "5301700000000000000000"
+      },
+      {
+        "id": "0xc6dfc70221f4ec0470da132daaa0b81f8ef3c56c",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xd083e4c5ac9f2541169b1c3a2cb94ee15e294c4b"
+            },
+            "operatorTokenBalanceWei": "6100000000000000000000"
+          }
+        ],
+        "owner": "0xd083e4c5ac9f2541169b1c3a2cb94ee15e294c4b",
+        "metadataJsonString": "{\"name\":\"Cats&Synths\",\"description\":\"\",\"redundancyFactor\":1,\"imageIpfsCid\":\"QmYjLhuYz466tn1PYmZtsdrJmExt2sAdBDar9qDXNiCg4d\"}",
+        "operatorTokenTotalSupplyWei": "6100000000000000000000",
+        "valueWithoutEarnings": "6050334207897403123751"
+      },
+      {
+        "id": "0xc780465c36c4bacee74dabafcb0521327033bede",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xf07c49ea0c4dcd1f72fc9c8f3224220527337d81"
+            },
+            "operatorTokenBalanceWei": "5451530000221790205873"
+          }
+        ],
+        "owner": "0xf07c49ea0c4dcd1f72fc9c8f3224220527337d81",
+        "metadataJsonString": "{\"name\":\"Frenchop\",\"description\":\"They nodes are deployed with FLUX network.\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmYxCuaxrF9p9bdx8Nrdqo8Q1YJ7ks8bGKhdkrgG6otXsn\"}",
+        "operatorTokenTotalSupplyWei": "5451530000221790205873",
+        "valueWithoutEarnings": "5451530000221790205873"
+      },
+      {
+        "id": "0xc86c131628d4511120c5681df3f2752a4e049b30",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x21e5d9486ca4c3c0e0cde3b8a96f2e95fad730f0"
+            },
+            "operatorTokenBalanceWei": "2652605192213390485617"
+          }
+        ],
+        "owner": "0x21e5d9486ca4c3c0e0cde3b8a96f2e95fad730f0",
+        "metadataJsonString": "{\"name\":\"CryptoTraders\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmWKyCAbXMygtaBheSjYZ8XoVjtrbvQ9Nz8vTxhMJURz52\"}",
+        "operatorTokenTotalSupplyWei": "2652605192213390485617",
+        "valueWithoutEarnings": "2652605192213390485617"
+      },
+      {
+        "id": "0xcb1203cab45051843fc8f8a075b55bd5b55cde3a",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x5e05696c49996f332e60328e440f35b7b07863a6"
+            },
+            "operatorTokenBalanceWei": "120000000000000000000000"
+          }
+        ],
+        "owner": "0x5e05696c49996f332e60328e440f35b7b07863a6",
+        "metadataJsonString": "{\"name\":\"Freya The Best\",\"description\":\"\",\"redundancyFactor\":3}",
+        "operatorTokenTotalSupplyWei": "120000000000000000000000",
+        "valueWithoutEarnings": "120000000000000000000000"
+      },
+      {
+        "id": "0xcb2994cb71d3f2685f1043184fdec255e33a33c5",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x81eb8691a4198d502e0802b7ac8a670020717b38"
+            },
+            "operatorTokenBalanceWei": "51690201337214704194308"
+          }
+        ],
+        "owner": "0x81eb8691a4198d502e0802b7ac8a670020717b38",
+        "metadataJsonString": "{\"name\":\"TOTC\",\"description\":\"TOTC Max Rewards\",\"redundancyFactor\":4,\"imageIpfsCid\":\"QmTaAiKbwy1fC5BmTVytzaxt3CiZSDkJ9dYqgCZAtbmYws\"}",
+        "operatorTokenTotalSupplyWei": "51690201337214704194308",
+        "valueWithoutEarnings": "51703716157360888070009"
+      },
+      {
+        "id": "0xcb33ba742fcbca580021821cda998f5cd5ac16f4",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x423b0df4224699a7394287bf4b9201c0734c8f3f"
+            },
+            "operatorTokenBalanceWei": "21049794014840796497510"
+          }
+        ],
+        "owner": "0x423b0df4224699a7394287bf4b9201c0734c8f3f",
+        "metadataJsonString": "{\"name\":\"ECO NODE FUSION\",\"description\":\"82,6% solar + 9,6% wind-power + 7,8% grid + 2 Lithium Backup UPS + Lead-Acid Battery Bank + 100% Net Zero Carbon Offset\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmTisCc9tuQLXfKvKCT1An2pVw8M95JQx5dQR6aaqeVAWh\"}",
+        "operatorTokenTotalSupplyWei": "21049794014840796497510",
+        "valueWithoutEarnings": "21049794014840796497510"
+      },
+      {
+        "id": "0xcbb74c57c2f41bedfd1fc31a8b8b9c16844f2895",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x6a7e0209afaf36119f856c32e873c6e223dac523"
+            },
+            "operatorTokenBalanceWei": "20010264677018675106153"
+          },
+          {
+            "delegator": {
+              "id": "0x8be5312a0362685ac49ab1da3104ea2b476e104c"
+            },
+            "operatorTokenBalanceWei": "48897028573817093522514"
+          }
+        ],
+        "owner": "0x8be5312a0362685ac49ab1da3104ea2b476e104c",
+        "metadataJsonString": "{\"name\":\"Douceur | Olympus\",\"description\":\"French Independant Validator\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmZ33YBgzv2guooJmcSoF8S14TyMcj16GVbu12CJcQkPic\"}",
+        "operatorTokenTotalSupplyWei": "68907293250835768628667",
+        "valueWithoutEarnings": "68907293250835768628667"
+      },
+      {
+        "id": "0xcc52b3a63d91fcbb1bb7b973c3fed8c29a39cc86",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x29fa5247183ff403c2ba19a435f401c5707f2d3c"
+            },
+            "operatorTokenBalanceWei": "10877612198771031718093"
+          }
+        ],
+        "owner": "0x29fa5247183ff403c2ba19a435f401c5707f2d3c",
+        "metadataJsonString": "{\"name\":\"paalomnik\",\"description\":\"I'm in crypto world since 2015 and I'm a professional developer and DevOps since 2014. Any servers is my passion.\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmU9Cw1wr1MS3VtrGqhkfhbQcT7ZzaMSQgsDotE2KchURX\"}",
+        "operatorTokenTotalSupplyWei": "10877612198771031718093",
+        "valueWithoutEarnings": "10877612198771031718093"
+      },
+      {
+        "id": "0xcfc0ed27d3be1f56b3ea799b2f5e9629e53e4e43",
+        "delegations": [],
+        "owner": "0xb7f23690c5e66f0dcc94b472d56938fe3bc79684",
+        "metadataJsonString": "{\"name\":\"kjj3502\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0xcfe7d6c4caaf9db1900fd2aa38d6a6257ed0c3a9",
+        "delegations": [],
+        "owner": "0x61931845d7ab755855fa3dbcdaeea9786ff65892",
+        "metadataJsonString": "{\"name\":\"Titus\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmeCCekc6v2xcFvbrpSym4uwTtqRAPwpjagzgwbD5PPr3i\"}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0xd005992743ef5ee403d9b5ecf21e92ba2b68354d",
+        "delegations": [],
+        "owner": "0xc2a02b33544cabd20b26e8f05ac14d04e3376055",
+        "metadataJsonString": "{\"name\":\"Streamr Test User\",\"description\":\"Don't stake to me!\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0xd102ac6f69d5cdc7f972b3319741a7e184d3f9fc",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xcdbf28072c99c435183ce833de7c9db08ebce7d3"
+            },
+            "operatorTokenBalanceWei": "36814602081182533207333"
+          }
+        ],
+        "owner": "0xcdbf28072c99c435183ce833de7c9db08ebce7d3",
+        "metadataJsonString": "{\"name\":\"Durianpool\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "36814602081182533207333",
+        "valueWithoutEarnings": "36766940378883834770972"
+      },
+      {
+        "id": "0xd2bccc303aa5a63f6290af71e9ff1d8ef4110ba7",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x4fbb35f4f20e785a11ea15b054b7b03d721399ba"
+            },
+            "operatorTokenBalanceWei": "10084001139003788413870"
+          }
+        ],
+        "owner": "0x4fbb35f4f20e785a11ea15b054b7b03d721399ba",
+        "metadataJsonString": "{\"name\":\"WizeMind\",\"description\":\"\",\"redundancyFactor\":3}",
+        "operatorTokenTotalSupplyWei": "10084001139003788413870",
+        "valueWithoutEarnings": "10084001139003788413870"
+      },
+      {
+        "id": "0xd552e14baec72d2a435ff6a2c64c47382df911f1",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xa606ebbbeb63efadc12c776f1af5d2d6f238f657"
+            },
+            "operatorTokenBalanceWei": "10000076393943389310860"
+          }
+        ],
+        "owner": "0xa606ebbbeb63efadc12c776f1af5d2d6f238f657",
+        "metadataJsonString": "{\"name\":\"Royale With Cheese\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmRtNSKXWuxiqXw9MnuSQz58vDyV8jDz7iTiQSevsBWYDn\"}",
+        "operatorTokenTotalSupplyWei": "10000076393943389310860",
+        "valueWithoutEarnings": "10000763991926570909441"
+      },
+      {
+        "id": "0xd78e137753c6935b10da2c6c2c823c181682baf2",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xd00df26e28473c8dad5096b5e857ea7422ae5977"
+            },
+            "operatorTokenBalanceWei": "6000000000000000000000"
+          }
+        ],
+        "owner": "0xd00df26e28473c8dad5096b5e857ea7422ae5977",
+        "metadataJsonString": "{\"name\":\"Sandalfon\",\"description\":\"happy go lucky :)\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "6000000000000000000000",
+        "valueWithoutEarnings": "6000000000000000000000"
+      },
+      {
+        "id": "0xd7c40f2f1c6c686e7fd13196852cf7dee6e478bb",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x406c3fef5969b36231bd573adfc34e16f54d23e0"
+            },
+            "operatorTokenBalanceWei": "5488000000000000000000"
+          }
+        ],
+        "owner": "0x406c3fef5969b36231bd573adfc34e16f54d23e0",
+        "metadataJsonString": "{\"name\":\"Stake.Works | Streamr\",\"description\":\"Stake.Works, independent node operators, active since 2018. \\n\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmdpjYc8F7D6PzWqPCzwVA76YQApUCJ5TLwbaP84Jg41Be\"}",
+        "operatorTokenTotalSupplyWei": "5488000000000000000000",
+        "valueWithoutEarnings": "5488000000000000000000"
+      },
+      {
+        "id": "0xd86380b6b0c3bf5a4d91ed858752358a9d1cacab",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x12b29c04c2900202d338c3a62817bcf488e1659e"
+            },
+            "operatorTokenBalanceWei": "5000000000000000000000"
+          }
+        ],
+        "owner": "0x12b29c04c2900202d338c3a62817bcf488e1659e",
+        "metadataJsonString": "{\"name\":\"Gerlicrom\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5000000000000000000000",
+        "valueWithoutEarnings": "5000000000000000000000"
+      },
+      {
+        "id": "0xdb7997fe122ad37265223def305a2ff56143d17d",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x7fe1a25b3d2b289d0edfdf48d42918a62ebf58ed"
+            },
+            "operatorTokenBalanceWei": "5698987050313735072050"
+          }
+        ],
+        "owner": "0x7fe1a25b3d2b289d0edfdf48d42918a62ebf58ed",
+        "metadataJsonString": "{\"name\":\"MrMikeyJR\",\"description\":\"Runningitt\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "5698987050313735072050",
+        "valueWithoutEarnings": "5701260924276343182384"
+      },
+      {
+        "id": "0xdbeb687deb2bfbb78f0736e3728eaa05388fa9e2",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x92546e18885dcb559289e46652580543acb4e91c"
+            },
+            "operatorTokenBalanceWei": "300000000000000000000000"
+          }
+        ],
+        "owner": "0x92546e18885dcb559289e46652580543acb4e91c",
+        "metadataJsonString": "{\"name\":\"Googloid\",\"description\":\"\",\"redundancyFactor\":3}",
+        "operatorTokenTotalSupplyWei": "300000000000000000000000",
+        "valueWithoutEarnings": "299891078923743614579272"
+      },
+      {
+        "id": "0xdd7eaaae40fa6b4b6c6e52f146d2401fd3323fb9",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x52b23946ca580e92901659ee258b17eb5626dbad"
+            },
+            "operatorTokenBalanceWei": "20209228839650433248809"
+          }
+        ],
+        "owner": "0x52b23946ca580e92901659ee258b17eb5626dbad",
+        "metadataJsonString": "{\"name\":\"JohnnyBGoode\",\"description\":\"\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "20209228839650433248809",
+        "valueWithoutEarnings": "20159524156565346182316"
+      },
+      {
+        "id": "0xde1068189381e49401a17a110f6ccf1fb845ec2b",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x1fd4fc7ae2a04949ed86b0b1f7efc885b9f900b6"
+            },
+            "operatorTokenBalanceWei": "41065805813166872763194"
+          },
+          {
+            "delegator": {
+              "id": "0x6b99c66233c1cd41df54d8c2853ad4f86dbd1387"
+            },
+            "operatorTokenBalanceWei": "22260162287925185298926"
+          }
+        ],
+        "owner": "0x1fd4fc7ae2a04949ed86b0b1f7efc885b9f900b6",
+        "metadataJsonString": "{\"name\":\"NightNode\",\"description\":\"A multi-chain node operator specializing in high availability reliable node hosting with global distribution.\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmdFgBkcd3j6tDi4FYPn4ZKbxhbYfrE3TdkuXT2Fvw4ehD\"}",
+        "operatorTokenTotalSupplyWei": "63325968101092058062120",
+        "valueWithoutEarnings": "63325968101092058062120"
+      },
+      {
+        "id": "0xde7163fa27562ec5f28ddec9f8b3757126069482",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x056ea8365365da2a0c7073b13d1bc8c4bae39a5a"
+            },
+            "operatorTokenBalanceWei": "19996915833481301621482"
+          }
+        ],
+        "owner": "0x056ea8365365da2a0c7073b13d1bc8c4bae39a5a",
+        "metadataJsonString": "{\"name\":\"Morty's Node\",\"description\":\"Your household name for running nodes & validators on multiple networks, always reliable, always true\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmcKrjE1s7SXXxsQBNiPykXk1fFnGMsnRXV2QW3P5GBU4c\"}",
+        "operatorTokenTotalSupplyWei": "19996915833481301621482",
+        "valueWithoutEarnings": "19996915833481301621482"
+      },
+      {
+        "id": "0xe42e50b137e1e31b688b1189f43c051892c680ad",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xf44b77699f29e1ca61dc02a0b82dd258323719f6"
+            },
+            "operatorTokenBalanceWei": "41921998568251409402919"
+          }
+        ],
+        "owner": "0xf44b77699f29e1ca61dc02a0b82dd258323719f6",
+        "metadataJsonString": "{\"name\":\"3SixtyMining\",\"description\":\"\",\"redundancyFactor\":1}",
+        "operatorTokenTotalSupplyWei": "41921998568251409402919",
+        "valueWithoutEarnings": "41926000000000000000000"
+      },
+      {
+        "id": "0xe6a775a784cf5b86b710fabf326f933f97de821c",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x0a3c04b5db246bbaa253a7ddde014f4d221c5d11"
+            },
+            "operatorTokenBalanceWei": "5200000000000000000000"
+          },
+          {
+            "delegator": {
+              "id": "0x5c8a23b9937febda9782dd317786008fd481dda7"
+            },
+            "operatorTokenBalanceWei": "1800000000000000000000"
+          }
+        ],
+        "owner": "0x0a3c04b5db246bbaa253a7ddde014f4d221c5d11",
+        "metadataJsonString": "{\"name\":\"m51\",\"description\":\"The Whirlpool Galaxy Operator\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmZ6nQ9g4FGTSZyuTAcQcEsEyjibU1i5ZnxaHgd6geT7LD\"}",
+        "operatorTokenTotalSupplyWei": "7000000000000000000000",
+        "valueWithoutEarnings": "7000000000000000000000"
+      },
+      {
+        "id": "0xe71e0eee41ea07037b8263ea214e96fcce32dfbf",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x0005f6c64351a2f07865d5c8ec87ca0962365ed9"
+            },
+            "operatorTokenBalanceWei": "40000000000000000000000"
+          }
+        ],
+        "owner": "0x0005f6c64351a2f07865d5c8ec87ca0962365ed9",
+        "metadataJsonString": "{\"name\":\"dataDaemon\",\"description\":\"daemon as in service daemon\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmWxq8PDqETiETqaXXLJ91PwFPSjjbD8xHFjp5pMYepEnH\"}",
+        "operatorTokenTotalSupplyWei": "40000000000000000000000",
+        "valueWithoutEarnings": "40000000000000000000000"
+      },
+      {
+        "id": "0xe7f42c342f9c74ad223fdfef02423e13c7820b79",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x3f900a666d34ecc20d2883ad72d8bef4267213dd"
+            },
+            "operatorTokenBalanceWei": "10800074019812063241979"
+          }
+        ],
+        "owner": "0x3f900a666d34ecc20d2883ad72d8bef4267213dd",
+        "metadataJsonString": "{\"name\":\"CryptoHouse\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "10800074019812063241979",
+        "valueWithoutEarnings": "10807407006971243855127"
+      },
+      {
+        "id": "0xe9b24cd3ddb633f586fe75bf135ae29ccb838104",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x6f03f52a3a50271f40969bd11e3d21cf868bb453"
+            },
+            "operatorTokenBalanceWei": "73473000000000000000000"
+          }
+        ],
+        "owner": "0x6f03f52a3a50271f40969bd11e3d21cf868bb453",
+        "metadataJsonString": "{\"name\":\"Swigs Staking\",\"description\":\"Swiss technology and blockchain solution company\\nhttps://swigs.ch \",\"redundancyFactor\":1,\"imageIpfsCid\":\"QmRA17TonjpRKj7dB3L9M5Sz2SExTvX8SvA5B3NZVGa4vv\"}",
+        "operatorTokenTotalSupplyWei": "73473000000000000000000",
+        "valueWithoutEarnings": "73473000000000000000000"
+      },
+      {
+        "id": "0xeac4f0e0766ade02355e9c0cb9557fc1fe434334",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xfc6e9d9d7a2cc9f144c9e737608bd60d653bbb2f"
+            },
+            "operatorTokenBalanceWei": "145152071852584247181672"
+          }
+        ],
+        "owner": "0xfc6e9d9d7a2cc9f144c9e737608bd60d653bbb2f",
+        "metadataJsonString": "{\"name\":\"StreamrNodes\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "145152071852584247181672",
+        "valueWithoutEarnings": "145152071852584247181672"
+      },
+      {
+        "id": "0xeb825a75f07bb7abf8b60720ac6a5db81ca148e6",
+        "delegations": [],
+        "owner": "0x0a83acf240fab8c133aa67f54db32b1fe0763b8e",
+        "metadataJsonString": "{\"name\":\"BCL\",\"description\":\"streamertake2\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "0",
+        "valueWithoutEarnings": "0"
+      },
+      {
+        "id": "0xebf5c1dcfd865bab560046dc425b3cdb55a2fcd6",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xa6097c602ced922ad77892516ab4fa47bd193689"
+            },
+            "operatorTokenBalanceWei": "23187235323318187182761"
+          }
+        ],
+        "owner": "0xa6097c602ced922ad77892516ab4fa47bd193689",
+        "metadataJsonString": "{\"name\":\"Campfire\",\"description\":\"\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmUGU31h6D3ea8jZiNTcYFZizV88Et7uCvoXx1rcN8LyEc\"}",
+        "operatorTokenTotalSupplyWei": "23187235323318187182761",
+        "valueWithoutEarnings": "23191707374085437058200"
+      },
+      {
+        "id": "0xeec7648e2c2ddf688df8f148fe58889e96c7f8b1",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xe929522db998eb39d85ad0edbbdfcf33ed6cd67d"
+            },
+            "operatorTokenBalanceWei": "12090000000000000000000"
+          }
+        ],
+        "owner": "0xe929522db998eb39d85ad0edbbdfcf33ed6cd67d",
+        "metadataJsonString": "{\"name\":\"baconxav\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "12090000000000000000000",
+        "valueWithoutEarnings": "12090000000000000000000"
+      },
+      {
+        "id": "0xf352325272053eb0e9b2394d597bfa9491fa2a37",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xa5673a05689f2b0d9c85c0a2c190fb19bb9c4cbe"
+            },
+            "operatorTokenBalanceWei": "116083073472376129337863"
+          }
+        ],
+        "owner": "0xa5673a05689f2b0d9c85c0a2c190fb19bb9c4cbe",
+        "metadataJsonString": "{\"name\":\"Newin\",\"description\":\"i'm very active in streamr discord , you can contact me easly if you have any issue or want withdraw your reward quickly\",\"redundancyFactor\":3}",
+        "operatorTokenTotalSupplyWei": "116083073472376129337863",
+        "valueWithoutEarnings": "116085449129325072680627"
+      },
+      {
+        "id": "0xf392caa3645712103e833267fb3a1a75bc182d84",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x6cb4f8d6a3079efec8a4b5f0beef799181965393"
+            },
+            "operatorTokenBalanceWei": "5000000000000000000000"
+          }
+        ],
+        "owner": "0x6cb4f8d6a3079efec8a4b5f0beef799181965393",
+        "metadataJsonString": "{\"name\":\"KCKKC\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5000000000000000000000",
+        "valueWithoutEarnings": "5000000000000000000000"
+      },
+      {
+        "id": "0xf53661dc87ca106f2aa2f8fb4c830613e03c2701",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xda53a5e97d118076e5140ce35e052fcd5b99726b"
+            },
+            "operatorTokenBalanceWei": "14000000000000000000000"
+          }
+        ],
+        "owner": "0xda53a5e97d118076e5140ce35e052fcd5b99726b",
+        "metadataJsonString": "{\"name\":\"AEM23\",\"description\":\"Mainnet OP\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "14000000000000000000000",
+        "valueWithoutEarnings": "14000000000000000000000"
+      },
+      {
+        "id": "0xf9732e20f1bf0ec6f429e5289d294bf28bd791b9",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xa5672528cafa65ca8eb4575c5e8779e8f4a670ab"
+            },
+            "operatorTokenBalanceWei": "99591040534543760393120"
+          }
+        ],
+        "owner": "0xa5672528cafa65ca8eb4575c5e8779e8f4a670ab",
+        "metadataJsonString": "{\"name\":\"ﾒNodes\",\"description\":\"Let's build the future together! #GrowingStrong 💪\\nhttps://twitter.com/ClaudioxBarros\\nwww.claudioxbarros.com\\n\",\"redundancyFactor\":3,\"imageIpfsCid\":\"QmaDFW6DN5L7Vt8TE3A51ae833DpwNXRtCcEcjoJZREG8y\"}",
+        "operatorTokenTotalSupplyWei": "99591040534543760393120",
+        "valueWithoutEarnings": "99654817164653266649585"
+      },
+      {
+        "id": "0xf9dffc1f17c9355ae88027090486323d6a23a4ec",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x953dbd516457056c9b4498bd3aac3ef3421162e4"
+            },
+            "operatorTokenBalanceWei": "5225000000000000000000"
+          }
+        ],
+        "owner": "0x953dbd516457056c9b4498bd3aac3ef3421162e4",
+        "metadataJsonString": "{\"name\":\"steonode1\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5225000000000000000000",
+        "valueWithoutEarnings": "5225000000000000000000"
+      },
+      {
+        "id": "0xfc586d52da3b9c99cc4006dc966afe3589f35306",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x5013a1362342731b564d0ea650be99365782561f"
+            },
+            "operatorTokenBalanceWei": "5243807394167978182386"
+          }
+        ],
+        "owner": "0x5013a1362342731b564d0ea650be99365782561f",
+        "metadataJsonString": "{\"name\":\"endezant\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5243807394167978182386",
+        "valueWithoutEarnings": "5243807394167978182386"
+      },
+      {
+        "id": "0xfcca869915da86fd8e06904d33f2c2983534877f",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x96e2fe47fc5d5ff72aea129809364310b045d70c"
+            },
+            "operatorTokenBalanceWei": "181077267311897918327738"
+          }
+        ],
+        "owner": "0x96e2fe47fc5d5ff72aea129809364310b045d70c",
+        "metadataJsonString": "{\"name\":\"CalvinA\",\"description\":\"we all will be richer and richer\",\"redundancyFactor\":2,\"imageIpfsCid\":\"Qmcf3oZ9mzR6nV5mS1RJd1K1z3SExpAhPZSnjzhXnmiDZz\"}",
+        "operatorTokenTotalSupplyWei": "181077267311897918327738",
+        "valueWithoutEarnings": "181077267311897918327738"
+      },
+      {
+        "id": "0xfd847432606faa3b13e5810834aa8324bb6572c7",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x70c56e9454eea45efbcb58754bb7151d008bbe5e"
+            },
+            "operatorTokenBalanceWei": "172599203398986845287516"
+          }
+        ],
+        "owner": "0x70c56e9454eea45efbcb58754bb7151d008bbe5e",
+        "metadataJsonString": "{\"name\":\"Caterator\",\"description\":\"Three fabulous and stable nodes\",\"redundancyFactor\":3,\"imageIpfsCid\":\"Qmai94f4s8YZXLX7B9qfMDp4wrAuhRZ8GzDACjtBMT7AFV\"}",
+        "operatorTokenTotalSupplyWei": "172599203398986845287516",
+        "valueWithoutEarnings": "172641205368487197678366"
+      },
+      {
+        "id": "0xfde4704f1ef76f495761ad6be4b04fb78c2d98c3",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x13759dfe2d73255e381b031c8dc433c188a58365"
+            },
+            "operatorTokenBalanceWei": "5100369000000000000000"
+          }
+        ],
+        "owner": "0x13759dfe2d73255e381b031c8dc433c188a58365",
+        "metadataJsonString": "{\"name\":\"HASM\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "5100369000000000000000",
+        "valueWithoutEarnings": "5100369000000000000000"
+      },
+      {
+        "id": "0xff14334a685e2a0ae8192d1b402b0b80ce396e67",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0x4be65a6d94a2b12b602c1cbb94d057438db37d83"
+            },
+            "operatorTokenBalanceWei": "5000000000000000000000"
+          }
+        ],
+        "owner": "0x4be65a6d94a2b12b602c1cbb94d057438db37d83",
+        "metadataJsonString": "{\"name\":\"Dr Operator Jr\",\"description\":\"An ambitious doctor who want to be a great actor in the DATA ecosystem\",\"redundancyFactor\":2,\"imageIpfsCid\":\"QmTwwLvSU4u544vjoVhTDAGSWqZKHg5n4uXjBqdYFZr41n\"}",
+        "operatorTokenTotalSupplyWei": "5000000000000000000000",
+        "valueWithoutEarnings": "5000000000000000000000"
+      },
+      {
+        "id": "0xffbb8d28b5bc53f8ac60d1afbb4bbda682950e51",
+        "delegations": [
+          {
+            "delegator": {
+              "id": "0xe6df364718ccfb96025ef24078b7c8d387a47242"
+            },
+            "operatorTokenBalanceWei": "10400000000000000000"
+          }
+        ],
+        "owner": "0xe6df364718ccfb96025ef24078b7c8d387a47242",
+        "metadataJsonString": "{\"name\":\"kalidus\",\"description\":\"\",\"redundancyFactor\":2}",
+        "operatorTokenTotalSupplyWei": "10400000000000000000",
+        "valueWithoutEarnings": "105800000000000000000"
+      }
+    ]
+  }
+}
