@@ -10,6 +10,9 @@ const BLOCKS_SUBGRAPH_URL = 'https://api.thegraph.com/subgraphs/name/matthewlill
 const STREAMR_SUBGRAPH_URL = 'https://gateway-arbitrum.network.thegraph.com/api/8bcbd55cdd1369cadb0bb813d9817776/subgraphs/id/EGWFdhhiWypDuz22Uy7b3F69E9MEkyfU9iAQMttkH5Rj'
 
 const START_TIME = 1709733209
+const END_TIME = Math.floor(new Date().getTime()/1000)
+const MIN_SLASHING_WEI = '0'
+
 const PAGE_SIZE = 1000
 
   const blocksHttpLink = createHttpLink({
@@ -114,7 +117,10 @@ async function getSlashingEvents(timestampStartSec: number, timestampEndSec: num
             currentStart = parseInt(pageResults[pageResults.length - 1].date) + 1
         }
     }
-    return result
+
+    // Filter out events below the minimum
+    const min = new BigNumber(MIN_SLASHING_WEI)
+    return result.filter(slashingEvent => new BigNumber(slashingEvent.amount).gte(min))
 }
 
 async function getSlashingEventsPage(timestampStartSec: number, timestampEndSec: number): Promise<SlashingEvent[]> {
@@ -211,7 +217,7 @@ async function calculateReimbursements(slashingEvent: SlashingEvent): Promise<Re
 }
 
 ;(async () => {
-    const slashingEvents = await getSlashingEvents(START_TIME, Math.floor(new Date().getTime()/1000))
+    const slashingEvents = await getSlashingEvents(START_TIME, END_TIME)
     for (const slashingEvent of slashingEvents) {
         const reimbursements = await calculateReimbursements(slashingEvent)
         for (const reimbursement of reimbursements) {
