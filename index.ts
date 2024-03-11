@@ -9,6 +9,9 @@ import { formatEther } from "ethers";
 const BLOCKS_SUBGRAPH_URL = 'https://api.thegraph.com/subgraphs/name/matthewlilley/polygon-blocks'
 const STREAMR_SUBGRAPH_URL = 'https://gateway-arbitrum.network.thegraph.com/api/8bcbd55cdd1369cadb0bb813d9817776/subgraphs/id/EGWFdhhiWypDuz22Uy7b3F69E9MEkyfU9iAQMttkH5Rj'
 
+const START_TIME = 1709733209
+const PAGE_SIZE = 1000
+
   const blocksHttpLink = createHttpLink({
     uri: BLOCKS_SUBGRAPH_URL,
     fetch,
@@ -29,11 +32,11 @@ const streamrClient = new ApolloClient({
     cache: new InMemoryCache()
 })
 
-async function getBlockAtTimestamp(timestamp: number): Promise<number> {
+async function getBlockAtTimestamp(timestampSec: number): Promise<number> {
     const query = gql`
       {
         blocks(
-          where: {timestamp: "${timestamp}"}
+          where: {timestamp: "${timestampSec}"}
         ) {
           id
           number
@@ -98,14 +101,30 @@ type SlashingEvent = {
     }
 }
 
-async function getSlashingEvents(timestampStart: number, timestampEnd: number): Promise<SlashingEvent[]> {
+async function getSlashingEvents(timestampStartSec: number, timestampEndSec: number): Promise<SlashingEvent[]> {
+    let result: SlashingEvent[] = []
+    let currentStart = timestampStartSec
+    while (true) {
+        const pageResults = await getSlashingEventsPage(currentStart, timestampEndSec)
+        result = [...result, ...pageResults]
+        if (pageResults.length < PAGE_SIZE) {
+            break
+        } else {
+            // Next page start time must be minimally greater than the timestamp of the last result of this page
+            currentStart = parseInt(pageResults[pageResults.length - 1].date) + 1
+        }
+    }
+    return result
+}
+
+async function getSlashingEventsPage(timestampStartSec: number, timestampEndSec: number): Promise<SlashingEvent[]> {
     const query = gql`
     {
         slashingEvents(
             orderBy: date
             orderDirection: asc
-            first: 1000
-            where: {date_gte: "${timestampStart}", date_lte: "${timestampEnd}"}
+            first: ${PAGE_SIZE}
+            where: {date_gte: "${timestampStartSec}", date_lte: "${timestampEndSec}"}
         ) {
             amount
             date
@@ -192,7 +211,7 @@ async function calculateReimbursements(slashingEvent: SlashingEvent): Promise<Re
 }
 
 ;(async () => {
-    const slashingEvents = await getSlashingEvents(1709733209, Math.floor(new Date().getTime()/1000))
+    const slashingEvents = await getSlashingEvents(START_TIME, Math.floor(new Date().getTime()/1000))
     for (const slashingEvent of slashingEvents) {
         const reimbursements = await calculateReimbursements(slashingEvent)
         for (const reimbursement of reimbursements) {
